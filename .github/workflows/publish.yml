@@ -17,7 +17,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
@@ -70,7 +70,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
@@ -123,7 +123,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
@@ -176,7 +176,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
@@ -229,7 +229,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
@@ -282,7 +282,7 @@ jobs:
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
       - run: chmod +x xcpkg
 
-      - run: ./xcpkg env
+      - run: ./xcpkg about
       - run: ./xcpkg setup
       - run: ./xcpkg update
       - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}

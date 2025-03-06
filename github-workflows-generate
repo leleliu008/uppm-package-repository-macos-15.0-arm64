@@ -99,6 +99,7 @@ do
               PACKAGE_VERSION="\$(./xcpkg info-installed "\$item" version)"
 
               PACKAGE_NAME="\${item#*/}"
+              PACKAGE_NAME="\${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="\$(ls \$PACKAGE_NAME-\$PACKAGE_VERSION-*.tar.xz)"
 

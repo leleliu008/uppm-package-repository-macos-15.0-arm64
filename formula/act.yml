@@ -1,0 +1,5 @@
+summary: Run your GitHub Actions locally
+webpage: https://github.com/nektos/act
+version: 0.2.62
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/act-0.2.62-MacOSX-15.0-arm64..tar.xz
+bin-sha: 7411292cb55ce358ea00ca7d7a4517a1551ad67b327a35d825a82cfce8299034

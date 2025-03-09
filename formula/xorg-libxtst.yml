@@ -1,0 +1,5 @@
+summary: X.Org Client API for the XTEST & RECORD extensions
+webpage: https://www.x.org/
+version: 1.2.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/xorg-libxtst-1.2.5-MacOSX-15.0-arm64..tar.xz
+bin-sha: ca599d42fb221a644b54be0222d3f067d36ffbcfeaf44704f7e16113748b9ac7

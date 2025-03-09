@@ -1,0 +1,5 @@
+summary: An opinionated Lua code formatter
+webpage: https://github.com/JohnnyMorganz/StyLua
+version: 0.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/stylua-0.20.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: eebb66870804de8ccb76ed12a7abeea17287823f4ab097597f00ad0e6528b83d

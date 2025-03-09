@@ -1,0 +1,5 @@
+summary: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
+webpage: https://github.com/emersion/hydroxide
+version: 0.2.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/hydroxide-0.2.21-MacOSX-15.0-arm64..tar.xz
+bin-sha: 768c57a05bf3f3d39d23edc0b0d3312906cd65d94f94f171061d5636908239c8

@@ -1,0 +1,5 @@
+summary: A few command-line utilities for working with desktop entries
+webpage: https://wiki.freedesktop.org/www/Software/desktop-file-utils/
+version: 0.28
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/desktop-file-utils-0.28-MacOSX-15.0-arm64..tar.xz
+bin-sha: b502e9c0fcc06dca067f7209394b7497b269cbbcfc4090f65194050ec3a39836

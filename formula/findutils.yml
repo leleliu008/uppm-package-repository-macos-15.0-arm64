@@ -1,0 +1,5 @@
+summary: A package of several programs related to finding files
+webpage: https://www.gnu.org/software/findutils
+version: 4.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/findutils-4.10.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 7fd36031d745acf15a327af229891355c61158907d612d01abe20c7934e47006

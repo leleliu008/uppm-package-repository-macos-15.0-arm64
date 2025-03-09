@@ -1,0 +1,5 @@
+summary: A lightweight multi-protocol & multi-source, cross platform download library
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libaria2-1.37.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 2009668907dd23311924e514669783614c4cae5d90cba3ef3c77986178975511

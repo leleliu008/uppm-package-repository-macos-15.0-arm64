@@ -1,0 +1,5 @@
+summary: A command-line tool for converting XML files to various formats
+webpage: https://pagure.io/xmlto/
+version: 0.0.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/xmlto-0.0.29-MacOSX-15.0-arm64..tar.xz
+bin-sha: 541ec0c7259d2310ccb628db5adb67c0dd1dc2a92a65732ecad5622456ebda70

@@ -1,0 +1,5 @@
+summary: Modernized, complete, self-contained TeX/LaTeX engine
+webpage: https://tectonic-typesetting.github.io/
+version: 0.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/tectonic-0.15.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: fd4183965b32e9cd1ba181045ea98cc92d1370166d550ba2a9c06cab9c53535b

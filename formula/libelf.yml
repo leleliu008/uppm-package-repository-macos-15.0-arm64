@@ -1,0 +1,5 @@
+summary: ELF object file access library
+webpage: https://fossies.org/linux/misc/old/libelf-0.8.13.tar.gz/
+version: 0.8.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libelf-0.8.13-MacOSX-15.0-arm64..tar.xz
+bin-sha: c1f51b944d2a153901b6f1c26802b3638f7fb1ecb5fd3a97f28d0c3ad54f90cf

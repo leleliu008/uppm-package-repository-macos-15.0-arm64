@@ -1,0 +1,5 @@
+summary: Tools and libraries to manipulate images in many formats
+webpage: https://imagemagick.org/
+version: 7.1.1.44
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/imagemagick-7.1.1.44-MacOSX-15.0-arm64..tar.xz
+bin-sha: 7be032fb90c7429013653c1ec9401b3f33c4b38e4ef554bcc685b47db0362973

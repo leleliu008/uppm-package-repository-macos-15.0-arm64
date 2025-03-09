@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libintl-0.24-MacOSX-15.0-arm64..tar.xz
+bin-sha: e2b9bcefebe0b67daaabeff05ce3f9890c39a69a9baadb033192e3ede9a97e41

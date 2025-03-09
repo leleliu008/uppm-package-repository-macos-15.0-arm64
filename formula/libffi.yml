@@ -1,0 +1,5 @@
+summary: A portable Foreign Function Interface library
+webpage: https://sourceware.org/libffi
+version: 3.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libffi-3.4.6-MacOSX-15.0-arm64..tar.xz
+bin-sha: dcccf151a00834a2ef637cd086a7cc2d578278c903d024ee2d85a685d18e28de

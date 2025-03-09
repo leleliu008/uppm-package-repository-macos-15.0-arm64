@@ -1,0 +1,5 @@
+summary: A C/C++ implementation of a Sass compiler
+webpage: https://github.com/sass/libsass
+version: 3.6.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libsass-3.6.6-MacOSX-15.0-arm64..tar.xz
+bin-sha: bcaf263a2c14b087145fa6ee0f9588e0e977f3bdee352bfd564766c8449d5346

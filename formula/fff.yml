@@ -1,0 +1,5 @@
+summary: A simple file manager written in bash
+webpage: https://github.com/dylanaraps/fff
+version: 2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/fff-2.2-MacOSX-15.0-arm64..tar.xz
+bin-sha: a34c6d1e0bc6260b0036160ebee590362c96b242aec80d3faa59b11f1be84666

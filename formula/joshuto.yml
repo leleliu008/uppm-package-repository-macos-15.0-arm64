@@ -1,0 +1,5 @@
+summary: ranger-like terminal file manager written in Rust
+webpage: https://github.com/kamiyaa/joshuto
+version: 0.9.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/joshuto-0.9.8-MacOSX-15.0-arm64..tar.xz
+bin-sha: 2ed04564e7cd145f6cd87e078497bab74e1752848d34b96f68e3f885ae8f5c9a

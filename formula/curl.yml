@@ -1,0 +1,5 @@
+summary: Get a file from an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se/
+version: 8.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/curl-8.8.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 7361ded29508495698d8c44339a3116f82bfeee6c83c6baf655ddd8f14a70b3c

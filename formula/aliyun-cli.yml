@@ -1,0 +1,5 @@
+summary: Universal Command-Line Interface for Alibaba Cloud
+webpage: https://github.com/aliyun/aliyun-cli
+version: 3.0.207
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/aliyun-cli-3.0.207-MacOSX-15.0-arm64..tar.xz
+bin-sha: f2bc83b6a5f0b1b7f791bc07ca2a3c945acc70d5325e6964c683793a2d5ccbe8

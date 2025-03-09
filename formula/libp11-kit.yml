@@ -1,0 +1,5 @@
+summary: Library to load and enumerate PKCS#11 modules
+webpage: https://p11-glue.freedesktop.org
+version: 0.25.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libp11-kit-0.25.5-MacOSX-15.0-arm64..tar.xz
+bin-sha: 483b839112419ca39198780ba73980da70b257afd68f7085d2631f4a790ea56b

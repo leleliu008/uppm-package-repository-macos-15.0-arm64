@@ -1,0 +1,5 @@
+summary: Azure Storage data transfer utility
+webpage: https://github.com/Azure/azure-storage-azcopy
+version: 10.28.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/azcopy-10.28.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 83c074c6a33466d7e30be8b77e40a2b1ce798ea78e7647e1ab4a7572d3f7904c

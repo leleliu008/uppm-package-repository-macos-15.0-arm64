@@ -1,0 +1,5 @@
+summary: Outputs current CPU temperature for OSX
+webpage: https://github.com/lavoiesl/osx-cpu-temp
+version: 1.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/osx-cpu-temp-1.1.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 25e8ec315fd42a0014250319a3e58bcdede5ff1095eb6275f3c6d549e277dfe8

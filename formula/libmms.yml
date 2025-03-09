@@ -1,0 +1,5 @@
+summary: Library for parsing mms and mmsh network streams
+webpage: https://sourceforge.net/projects/libmms/
+version: 0.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libmms-0.6.4-MacOSX-15.0-arm64..tar.xz
+bin-sha: 714ed435939556219abf1741368373bd50be4e76105c481556d2dc9941267092

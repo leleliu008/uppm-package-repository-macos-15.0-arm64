@@ -1,0 +1,5 @@
+summary: Audio codec designed for speech
+webpage: https://speex.org
+version: 1.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libspeex-1.2.1-MacOSX-15.0-arm64..tar.xz
+bin-sha: 41355b23b9e5e4d0be34c6e50df56cd4c37e9b51d6a09d33fae19abd177a60c3

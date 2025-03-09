@@ -1,0 +1,5 @@
+summary: A collection utilities for manipulating PostScript documents
+webpage: https://github.com/rrthomas/psutils
+version: 3.3.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/psutils-3.3.2-MacOSX-15.0-arm64..tar.xz
+bin-sha: 6a2aed771846fd4f38ceae3d8cfe16c51922af59745050caedd5e557aa59c20a

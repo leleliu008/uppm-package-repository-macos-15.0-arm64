@@ -1,0 +1,5 @@
+summary: Optimized BLAS library
+webpage: https://www.openblas.net
+version: 0.3.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/openblas-0.3.29-MacOSX-15.0-arm64..tar.xz
+bin-sha: 9f8d3d21ddfba80555ef6ec3f7719e2c5936b84493b95472f781de266f2fc7e9

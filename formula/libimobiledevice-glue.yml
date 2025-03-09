@@ -1,0 +1,5 @@
+summary: Library with common system API code for libimobiledevice projects
+webpage: https://libimobiledevice.org/
+version: 1.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libimobiledevice-glue-1.2.0-MacOSX-15.0-arm64..tar.xz
+bin-sha: 1da68452c5e8667e795d3f70b39e13afcaf661de57a452b51e8d7f43eee0311a

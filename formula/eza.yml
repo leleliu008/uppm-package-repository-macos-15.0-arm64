@@ -1,0 +1,5 @@
+summary: Modern replacement for ls(1)
+webpage: https://github.com/eza-community/eza
+version: 0.18.18
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/eza-0.18.18-MacOSX-15.0-arm64..tar.xz
+bin-sha: 316c76087777043d8c69b4dd0a999c83ad117ec1146cee6c7bb080284fa3e825

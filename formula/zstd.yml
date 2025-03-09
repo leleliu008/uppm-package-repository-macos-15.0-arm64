@@ -1,0 +1,5 @@
+summary: A real-time compression utility with high compression ratios
+webpage: https://facebook.github.io/zstd
+version: 1.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/zstd-1.5.6-MacOSX-15.0-arm64..tar.xz
+bin-sha: b0a907b0f4d298278d44f6499f11f2cbdafcd4e0c4b329c0575f7d739fce808e

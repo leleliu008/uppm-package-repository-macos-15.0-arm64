@@ -1,0 +1,5 @@
+summary: Oil Runtime Compiler (ORC)
+webpage: https://gstreamer.freedesktop.org/projects/orc.html
+version: 0.4.38
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/orcc-0.4.38-MacOSX-15.0-arm64..tar.xz
+bin-sha: 67f1a8d1061c2989efd203778a2ac431e6fa62b0f9e0384d3ce48ac85b6b5930

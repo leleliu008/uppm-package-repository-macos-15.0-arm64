@@ -1,0 +1,5 @@
+summary: X.Org XML-XCB protocol descriptions for libxcb code generation
+webpage: https://www.x.org/
+version: 1.15.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/xorg-xcb-proto-1.15.2-MacOSX-15.0-arm64..tar.xz
+bin-sha: 2633884cbfd551dda597cf344f5f199b7fce3855eaa32a9062f71c8b73a9358d

@@ -1,5 +1,5 @@
 summary: Image loading and rendering library
 webpage: https://sourceforge.net/projects/enlightenment/
 version: 1.12.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/imlib2-1.12.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: bb1afbe479e7a009c3f25f76c265473ae8274e83596bca346700b945e0129e0d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/imlib2-1.12.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: e7d7f4e077822c499425430f8b5b0f01e2b5a2c2557007e0bcb91e997ff47672

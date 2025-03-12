@@ -1,5 +1,5 @@
 summary: GNU database manager
 webpage: https://www.gnu.org/software/gdbm
 version: 1.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libgdbm-1.24-MacOSX-15.0-arm64..tar.xz
-bin-sha: 4e10b5e80af16c127fb885d38e9c011e5b6c2c819802ac3be726d2223b912f76
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libgdbm-1.24-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: dcf1737668bce94e5b9abd45888b212eb311b29e8f82cd7a92b012539f11f7eb

@@ -1,5 +1,5 @@
 summary: A new type of shell
 webpage: https://www.nushell.sh
 version: 0.102.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/nushell-0.102.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: deecc25a308291e96495ec7a42d1add0d875ee656762a025c48a80009002bd49
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/nushell-0.102.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 5184e500498c7389996af1df9063ae9d9a952bdf3bc0aee9f3e1cc887203fdc9

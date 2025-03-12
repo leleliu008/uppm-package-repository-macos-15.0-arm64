@@ -1,5 +1,5 @@
 summary: A free, secure, portable, extendable, high-performance executable packer for several executable formats
 webpage: https://upx.github.io/
 version: 4.2.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/upx-4.2.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: e34aeb101a2e3f077527ace3e4982ea33954cea55afe123aab5ddbf3b7ff910f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/upx-4.2.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 6b681487538b85ab7469288c1e3e902efe541a484d27b7d4fde167be9bf755bb

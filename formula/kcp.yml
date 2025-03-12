@@ -1,5 +1,5 @@
 summary: A Fast and Reliable ARQ Protocol
 webpage: https://github.com/skywind3000/kcp
 version: 1.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/kcp-1.7-MacOSX-15.0-arm64..tar.xz
-bin-sha: c9fa96bc541c0def614ebcc22a53f85cc0c97a853df6c974a77423ccba853ff5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/kcp-1.7-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 1a51db96d652195c0625271d6222e5522e213404ca31d8713fd5033cba77c860

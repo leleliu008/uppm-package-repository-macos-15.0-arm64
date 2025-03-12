@@ -1,5 +1,5 @@
 summary: X.Org Display Manager Control Protocol library
 webpage: https://www.x.org/
 version: 1.1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/xorg-libxdmcp-1.1.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: c9213a37a42df690bb3e478e91bc7c35c14077fb40cd10a0504b66394f9aa084
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/xorg-libxdmcp-1.1.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 8b37b4bdeb212a898086a8ab8387bd5a8e3279042b90b40adf37531ac077d76b

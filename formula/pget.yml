@@ -1,5 +1,5 @@
 summary: The fastest file download client
 webpage: https://github.com/Code-Hex/pget
-version: 2025.03.08
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/pget-2025.03.08-MacOSX-15.0-arm64..tar.xz
-bin-sha: 84775e4beef1c891397eaaf2ef1b7a5ae0387e05cf6648b4734e444f7185939b
+version: 2025.03.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/pget-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 198f8329b5a580b263ddec9ac9f931859c872089a17babdef271dd583165256e

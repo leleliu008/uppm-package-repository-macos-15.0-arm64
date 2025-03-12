@@ -1,5 +1,5 @@
 summary: Cross platform file encryption utility using blowfish
 webpage: https://bcrypt.sourceforge.io
 version: 1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/bcrypt-1.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 94809ad79b857f4c28759fc80ccd8bb8aed964f7f61afc997ddebf2567194979
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/bcrypt-1.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 3e69977335f1bea2768a1ce884f05b63660a2be273407910bc9f0881aead752d

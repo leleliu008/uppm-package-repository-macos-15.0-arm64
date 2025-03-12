@@ -1,5 +1,5 @@
 summary: CPU feature identification for Go
 webpage: https://github.com/klauspost/cpuid
 version: 2.2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/cpuid-2.2.7-MacOSX-15.0-arm64..tar.xz
-bin-sha: 174280a2d803fface369b804b378735749e5e41a59f66c8718a2824fc87e579b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/cpuid-2.2.7-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: d2173f39244d3cbd703c0e6e654a283bb89625dd905331cec96896a8d2bae746

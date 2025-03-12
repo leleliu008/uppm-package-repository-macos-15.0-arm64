@@ -1,5 +1,5 @@
 summary: Hierarchical, reference-counted memory pool with destructors
 webpage: https://talloc.samba.org/
 version: 2.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libtalloc-2.4.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: ce023550ee946ad10f5ac4f4499cac988a0fef2395cafb1eb093f6d75778fae8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libtalloc-2.4.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 9bdbc26fc9d4b3d1c65abfbe3191c714ee74c4407d89eb0b284fd0b0acb4c436

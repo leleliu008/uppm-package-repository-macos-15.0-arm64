@@ -1,5 +1,5 @@
 summary: Secure hashing function
 webpage: https://blake2.net
 version: 0.98.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libb2-0.98.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 006ef45bdb4917babb37eb1c8798c895d8e105eebb06e0656b8cdba6a70863f6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libb2-0.98.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: faf2e1b37f2fcd866488eea89bdc3919b701eb88f6494bfd5f74d904cf0093ba

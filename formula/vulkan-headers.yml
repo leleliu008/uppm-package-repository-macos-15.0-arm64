@@ -1,5 +1,5 @@
 summary: Vulkan Header files and API registry
 webpage: https://github.com/KhronosGroup/Vulkan-Headers
 version: 1.3.283
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/vulkan-headers-1.3.283-MacOSX-15.0-arm64..tar.xz
-bin-sha: 085c839e23f08d5d694fae20008252d385aed3f74d8e8d62768d660093323a9d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/vulkan-headers-1.3.283-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 6bc17069dad2eef5768810330ba978e3aa312bcc422619325210dc9a9c26fded

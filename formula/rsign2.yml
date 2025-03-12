@@ -1,5 +1,5 @@
 summary: A Rust implementation of Minisign
 webpage: https://github.com/jedisct1/rsign2
 version: 0.6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/rsign2-0.6.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: ff11a855a954fe276d8b5c655c865a6be5880deade256db150943ae88dacead9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/rsign2-0.6.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 3d1ab8de0c102aedd51e42e8b9564dbfd31d69a3b06b64c002bf5bb8fd9fe7c6

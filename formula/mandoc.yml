@@ -1,5 +1,5 @@
 summary: UNIX manpage compiler toolset
 webpage: https://mandoc.bsd.lv/
 version: 1.14.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/mandoc-1.14.6-MacOSX-15.0-arm64..tar.xz
-bin-sha: 7fc29969ad075f666823c4861ac6c03cdfd2bfd42e6eca664a914fd329a95d6a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/mandoc-1.14.6-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: ef0a61f33cb72089d31467d8cbcb45b03a997fe38bbbe668cab578c0041c0fe3

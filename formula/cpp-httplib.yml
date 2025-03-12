@@ -1,5 +1,5 @@
 summary: C++ header-only HTTP/HTTPS server and client library
 webpage: https://github.com/yhirose/cpp-httplib
 version: 0.18.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/cpp-httplib-0.18.3-MacOSX-15.0-arm64..tar.xz
-bin-sha: 5df588442df1e659740a9d5780c611e04b7ecb404a4e175adeb5a205a4ceaa4a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/cpp-httplib-0.18.3-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 07bf073db0eeda6e6256e14e99522a1eec3b852698723b41d51bc307594c736a

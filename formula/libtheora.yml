@@ -1,5 +1,5 @@
 summary: Open video compression format
 webpage: https://www.theora.org
 version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libtheora-1.1.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 979ce28e2be26179862a615fe31b765feca2e7522241d5bd42a4d7905cf3ce36
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libtheora-1.1.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: b73a16fcda3f4aee758615a81f1a265505e534280eba9d8e79aae3739f488fd9

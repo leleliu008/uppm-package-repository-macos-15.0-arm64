@@ -1,5 +1,5 @@
 summary: A generic and open source machine & userspace emulator and virtualizer
 webpage: https://www.qemu.org/
 version: 9.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/qemu-9.0.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: ed646d01752ca59a36d63031e7bcb0757db507bc89295cf4868b90d766a1b69a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/qemu-9.0.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 648e8f58687949af500136fe6e88a9a37648b6f8e0686e3c6e68050e01bd6d7f

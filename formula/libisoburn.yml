@@ -1,5 +1,5 @@
 summary: Frontend for libraries libburn and libisofs
 webpage: https://www.libburnia-project.org
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libisoburn-1.5.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: 0b9bf7de93b2097ef3fe335d8915c6a5086cee9bef7e908f7c5fa8919dbe1b44
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libisoburn-1.5.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 974ee7ba86875a7f3d6b15f1a0e939b35fd062fa8c581235fe9f1c2052a272e1

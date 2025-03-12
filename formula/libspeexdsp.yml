@@ -1,5 +1,5 @@
 summary: Speex audio processing library
 webpage: https://github.com/xiph/speexdsp
 version: 1.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libspeexdsp-1.2.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 6b0e3f8889e7340c81e280d86761a4439d9a731763fa70e2970702b2b92240f6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libspeexdsp-1.2.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: da639503a7a7d35d78527d0e5a66ab4a1bc8c5e02b048dc63bb323edaf049acc

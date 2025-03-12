@@ -1,0 +1,5 @@
+summary: Simple markdown translator
+webpage: https://kristaps.bsd.lv/lowdown/
+version: 2.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/lowdown-2.0.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: bf73707f3dc18f82bfb57aac4555525b63f2c60636f24d04a4883165a9597f5e

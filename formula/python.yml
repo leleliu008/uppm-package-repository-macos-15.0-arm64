@@ -1,5 +1,5 @@
 summary: Interpreted, interactive, object-oriented programming language
 webpage: https://www.python.org/
 version: 3.13.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/python-3.13.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: 5e21e8fd7ca88ed2cbf5a7387683872a95510b0502142fc754f8a17ae1c8657e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/python-3.13.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 4edbefd4da0d93cf8ecc627a30bea1262d8c7e07d5a035f468efb7cd01c1178d

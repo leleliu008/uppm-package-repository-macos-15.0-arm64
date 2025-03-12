@@ -1,5 +1,5 @@
 summary: Basis Universal GPU texture codec command-line compression tool
 webpage: https://github.com/BinomialLLC/basis_universal
 version: 1.16.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/basis_universal-1.16.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 8b8a7bb5d4ff04bdada0cc2820a8db54f64304e67b31a7840ecb7c0c75385f3f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/basis_universal-1.16.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 5e0553fde6669a2d84f30f04f9b598512be1884099563021685aa6581c8aad3d

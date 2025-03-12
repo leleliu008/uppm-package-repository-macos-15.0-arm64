@@ -1,5 +1,5 @@
 summary: Fish-like, POSIX-compatible shell
 webpage: https://github.com/nuta/nsh
 version: 0.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/nsh-0.4.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: eeb79f65f45ece7e6534053f8c505583eb4b12074b829b4024d0c88b99573d3a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/nsh-0.4.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: eafb86387bd52526ce8ab64b02f63038e01ff130dbf8b236ccb526c6d39680ed

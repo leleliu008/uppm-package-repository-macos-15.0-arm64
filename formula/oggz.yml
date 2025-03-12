@@ -1,5 +1,5 @@
 summary: Command-line tool for manipulating Ogg files
 webpage: https://www.xiph.org/oggz/
 version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/oggz-1.1.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 72814d6056f51aa2b22f9c697ef7628e3a3fa5dc919edeae17088337491a1370
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/oggz-1.1.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 9738c957e97de0f6e8d423fdf3b348fdb184da41ad03606e692794b81409c03a

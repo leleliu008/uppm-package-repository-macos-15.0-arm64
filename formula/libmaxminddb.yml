@@ -1,5 +1,5 @@
 summary: A C library for the MaxMind DB file format
 webpage: https://github.com/maxmind/libmaxminddb
 version: 1.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libmaxminddb-1.9.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: ac92859bad51741b39e0bc0b2f8f710a8bf8b5ab01291a40afd63987608a19b3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libmaxminddb-1.9.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: baafe69db1e63d3e2dff080b5b649cdff976b0b79920dffbd276c1339b6a28e1

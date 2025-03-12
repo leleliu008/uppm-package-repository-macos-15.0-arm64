@@ -1,5 +1,5 @@
 summary: Library for manipulating PNG images
 webpage: http://www.libpng.org/pub/png/libpng.html
 version: 1.6.43
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/png-1.6.43-MacOSX-15.0-arm64..tar.xz
-bin-sha: 79baf1ccaa8fc4d800f479f32b26deb22c21faf4229eac2c0faa365bed10080d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/png-1.6.43-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: b79d7e16d9cdc7057409392234c2175fcb7bcd55924dc0e17b6b094d96faf81f

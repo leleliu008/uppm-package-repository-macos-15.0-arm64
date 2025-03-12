@@ -1,5 +1,5 @@
 summary: A compiler wrapper to speed up recompilation by caching previous compilations and detecting when the same compilation is being done again
 webpage: https://ccache.dev
 version: 4.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/ccache-4.9.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 5223a223bc4e0e6505b2b4e7a2334bd9f975d8494708acc537eabc6dd2aeef97
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ccache-4.9.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 6ee31113629cd9582bdbde7ef7845e36cf933c8fda36db42cad02824bb4380e3

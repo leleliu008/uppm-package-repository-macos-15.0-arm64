@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://savannah.gnu.org/projects/patch
 version: 2.7.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/patch-2.7.6-MacOSX-15.0-arm64..tar.xz
-bin-sha: cf7664cb1bd8bee25d14e2660fd3246adafb74e3e3525164bc336b52d0dbd71d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/patch-2.7.6-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 391156878b0be2e16b4d690d4bd054ba04ea4af566f0596e8b9964124f319537

@@ -1,5 +1,5 @@
 summary: Toolkit for image loading and pixel buffer manipulation
 webpage: https://gtk.org/
 version: 2.42.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/gdk-pixbuf-2.42.12-MacOSX-15.0-arm64..tar.xz
-bin-sha: 0e4986ed9821a218f9965508c41e32587aa2ec2f5536d7a66b1837cc39c6601f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/gdk-pixbuf-2.42.12-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 3f8b5d119dc663932bb64320e537e95ac02275b4232fe6e31501111479d790ef

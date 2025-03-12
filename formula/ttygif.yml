@@ -1,5 +1,5 @@
 summary: Converts a ttyrec file into gif files
 webpage: https://github.com/icholy/ttygif
 version: 1.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/ttygif-1.6.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: 1769196b2b00845a9be1bcec7a9b268168cc628ff9b1cb158a8a479499fb0cec
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ttygif-1.6.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 7aa14fd3ab7be577052a3e7a01ef695fc88dbceb8a478c90b503f56ca1803d82

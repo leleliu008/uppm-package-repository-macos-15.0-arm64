@@ -1,5 +1,5 @@
 summary: Fast and exact implementation of the C++ from_chars functions for number types
 webpage: https://github.com/fastfloat/fast_float
 version: 8.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/fastfloat-8.0.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: 54dfec02bb39cb512742c56b33887ed1af842f8d0273de67446186560a585593
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/fastfloat-8.0.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 3fe341977d38a43820b66a6dc958b4799e7d300bfaf12bb60888e825285d4bc5

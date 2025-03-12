@@ -1,5 +1,5 @@
 summary: A collection of portable C++ source libraries
 webpage: https://www.boost.org/
 version: 1.84.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/boost-1.84.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: f51d3eccd8d3ae9a165c0476b94a540f553078ec68f33261dd533b0b7df5ec7c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/boost-1.84.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 1d0ae11e669be03e93d2c5bec03161544f00a6399f696021a9e9756c9ef593de

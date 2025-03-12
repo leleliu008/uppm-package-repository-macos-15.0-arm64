@@ -1,5 +1,5 @@
 summary: Library for sample rate conpackage set version of audio data
 webpage: https://github.com/libsndfile/libsamplerate
 version: 0.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libsamplerate-0.2.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: 612b6787ae742d172ffa8f7c9663ad7a6169a2879c55a0541e40c3fa0aa3174f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libsamplerate-0.2.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 257792f25f48124e5572396771c6d5cc7372f1b2f34ff39de0751125280bb663

@@ -1,5 +1,5 @@
 summary: A command-line utility for parsing CSV
 webpage: https://github.com/liquidaty/zsv
 version: 0.4.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/zsv-0.4.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 2b2dad9d88cf5c62a97ef09cb607f9e9d7f51ed5aefa361b2ce0a18a7b719dee
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/zsv-0.4.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: c89f60132847091e0f5abed30dc3776dc09f03ad8c4400a259ea4ee2b34705bf

@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.5a
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/tmux-3.5a-MacOSX-15.0-arm64..tar.xz
-bin-sha: 911291d02593bda849ce89e603803295ce40dd258eed5b35b48e1fd4caf0ffde
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/tmux-3.5a-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 2fa94de0b21292d590b351b9d1f0df0081da99dcb6eafc3d610ac67dd19b2d44

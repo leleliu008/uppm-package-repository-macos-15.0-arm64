@@ -1,5 +1,5 @@
 summary: Filesystem monitor with fanotify and inotify backends
 webpage: https://github.com/nowsecure/fsmon
 version: 1.8.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/fsmon-1.8.6-MacOSX-15.0-arm64..tar.xz
-bin-sha: 27f458d879829cc21d2980dc279bd1472df350fa9eaa2fb06ed9fe1e9c52c0cb
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/fsmon-1.8.6-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 9f4c3228937a5476dcc90215f1e0782b28d9b2c3071a0f8a0eb7ae76f9d92dbd

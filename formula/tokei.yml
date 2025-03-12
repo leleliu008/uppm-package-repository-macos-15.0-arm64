@@ -1,5 +1,5 @@
 summary: Program that allows you to count code, quickly
 webpage: https://github.com/XAMPPRocky/tokei
 version: 12.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/tokei-12.1.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: ba2d7f3343163001bc7c9f4824da60d9b73cc11d3af116e83508e7adca5f22aa
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/tokei-12.1.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 79f848fe155b2784b7544f7523024974f15deabeb56270603047e6c4ffa11f95

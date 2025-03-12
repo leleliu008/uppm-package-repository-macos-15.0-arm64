@@ -1,5 +1,5 @@
 summary: A parallel implementation of gzip for modern multi-processor, multi-core machines
 webpage: https://zlib.net/pigz/
 version: 2.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/pigz-2.8-MacOSX-15.0-arm64..tar.xz
-bin-sha: 77d57309e5fb5166dd4e2fb0beee10254f4dc2ba2caa9e6b61ed000ebf9eb418
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/pigz-2.8-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 0ddb1f1363f53c109fa138b4125fd969a969da2b8b5351a30593ced82aa04a61

@@ -1,5 +1,5 @@
 summary: Powerful and cross-platform ls
 webpage: https://g.equationzhao.space
 version: 0.28.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/g-0.28.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: c81c44504f7630c76ff4a681d7d4450a2293c2868210439bdbf1a008e004b49d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/g-0.28.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 58fe4f16c8403d1a9b049df8956eb22fb9c8edbb79291b37b8256b9c5c0175fc

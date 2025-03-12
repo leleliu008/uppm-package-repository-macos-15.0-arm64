@@ -1,5 +1,5 @@
 summary: PEG grammar optimizer and formatter. Supports any grammar supported by PackCC parser generator.
 webpage: https://github.com/dolik-rce/pegof
-version: 2025.03.08
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/pegof-2025.03.08-MacOSX-15.0-arm64..tar.xz
-bin-sha: 8fb56cc0f684053cd84ffcfa4c505a342b0bdb13fa6cdc7c172828b7505123c3
+version: 2025.03.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/pegof-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: a527c62eaf1be4031aae384467a7a9f9ef698fa54891bb76b20889ed5f4d39e9

@@ -1,5 +1,5 @@
 summary: Implementation of the Actor Model for C++
 webpage: https://www.actor-framework.org/
 version: 0.19.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/caf-0.19.6-MacOSX-15.0-arm64..tar.xz
-bin-sha: 1b0b3ddb9327c2746c7bba03cea9a4bb8e91f40389a67b794afbfe7062b6b275
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/caf-0.19.6-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 4a4c45beb66336d5e595d2a44813f35facbe362b76bdc0401421c7f5f4088aad

@@ -1,5 +1,5 @@
 summary: HTTP load generator, inspired by rakyll/hey with tui animation
 webpage: https://github.com/hatoo/oha
 version: 1.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/oha-1.5.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: b1bb9dc5e399c2fc69d3d754a64bec07685cc36eb84f81408c82dc9f34897874
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/oha-1.5.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 5b32f23860da25b7137e40feb64f89910552a2f9f78d952de38025b8b248bb1f

@@ -1,5 +1,5 @@
 summary: High dynamic-range image file format
 webpage: https://www.openexr.com/
 version: 3.2.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libopenexr-3.2.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 1c1da8b95504f3cd2827cdf22ebb2af660bc1c90918f4452fa51319a8e9594f5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libopenexr-3.2.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 04574bbfabf79647000b4b73cadd62be4e357c3bba78901ea812b9074b56c54c

@@ -1,5 +1,5 @@
 summary: C library for computing the Discrete Fourier Transform
 webpage: http://www.fftw.org
 version: 3.3.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libfftw3-3.3.10-MacOSX-15.0-arm64..tar.xz
-bin-sha: 1439cbc154b8db1051d3598a3f3af278d7bf3cf80c390c4e5ef1bc0d43a22989
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libfftw3-3.3.10-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: c9c73265c19d53f22443e2b83bb361343473d964279840325b1f44bb80c9e828

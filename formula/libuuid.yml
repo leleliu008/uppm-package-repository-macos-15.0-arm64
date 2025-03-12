@@ -1,5 +1,5 @@
 summary: DCE compatible Universally Unique Identifier library
 webpage: https://github.com/util-linux/util-linux
 version: 2.40.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libuuid-2.40.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 785eaa995ae3e91eb39dc12c1e8b9b507dd3fac5bf875fea53008ccba2dc90ec
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libuuid-2.40.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: e841034264a3860e1dd106c59ca6a2e06faa30dbb214b66be4f70219ed91672f

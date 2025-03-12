@@ -1,5 +1,5 @@
 summary: Extremely Fast Compression algorithm
 webpage: http://www.lz4.org/
 version: 1.9.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/lz4-1.9.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 4260e107cbd49807034c76399e1d32b7268563358bfb8cc12d9ddb7960927ce1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/lz4-1.9.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 8558c3cc8cddca38686d2edab0dc621c21989d1d1093b8996ed468c7a60656ec

@@ -1,5 +1,5 @@
 summary: Library access to GnuPG
 webpage: https://www.gnupg.org/related_software/gpgme/
 version: 1.24.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libgpgme-1.24.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: f6b38286bf0ea31d35aaced95dedb89277ee38c25287e263ae864984df187bd4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libgpgme-1.24.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 5add96e7784a3eb197b77d8d02c5550f2df806d851388a83580b142b0e3ebd67

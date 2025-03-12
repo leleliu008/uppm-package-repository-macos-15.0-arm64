@@ -1,5 +1,5 @@
 summary: A code snippet manager for your terminal
 webpage: https://github.com/maaslalani/nap
 version: 0.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/nap-0.1.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: b8f547a5ac90c7c7db3ce1b36ee327926cf257900d5f1a7b9918430c07651253
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/nap-0.1.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: d01ac546e7f72b9ccb8bcc0be6def9015c43d51ae789c0cb2257e05ebb8ae9f3

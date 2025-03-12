@@ -1,5 +1,5 @@
 summary: Version of the SSL/TLS protocol forked from OpenSSL
 webpage: https://www.libressl.org/
 version: 3.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libressl-3.9.2-MacOSX-15.0-arm64..tar.xz
-bin-sha: feefd20572b80c6e5eb7dffdfadef40c519b2aa4391fcb6f7a157f84bb933201
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libressl-3.9.2-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 177ded5000cddd39eb00f2be5e1d9652fd547268356c54899c4eac7d900d9e76

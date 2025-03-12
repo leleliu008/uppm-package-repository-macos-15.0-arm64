@@ -1,5 +1,5 @@
 summary: A simple command line utility to make DNS lookups to the specified server
 webpage: https://github.com/ameshkov/dnslookup
 version: 1.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/dnslookup-1.10.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: 8a4d065b2e5e74582ae3dc58819f0caa1344e12c6d048fda8ab457f829b4de42
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/dnslookup-1.10.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: e85c80a1138ce84f9addeb995f02fc8c75e0a8a8f3e797333f451e7940f0e6e2

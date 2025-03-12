@@ -1,5 +1,5 @@
 summary: C++ network sniffing, packet parsing and crafting framework
 webpage: https://pcapplusplus.github.io
 version: 23.09
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/pcapplusplus-23.09-MacOSX-15.0-arm64..tar.xz
-bin-sha: a9a56cc17d351a578bff26ca2c537b78b48544c6b48b6c5e5243674119d34248
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/pcapplusplus-23.09-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 223220262b0d633a217e8188ba1caf9549997b0ce62d220756311a4d81b33343

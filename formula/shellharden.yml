@@ -1,5 +1,5 @@
 summary: A bash syntax highlighter that encourages/fixes variables quoting
 webpage: https://github.com/anordal/shellharden
 version: 4.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/shellharden-4.3.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: cf7f72382cade267ab846050088807e3ef9f128ad143546e1a5b1a02d378ef8b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/shellharden-4.3.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 97606590a735b6636d70a5156a2f2c36e925c09a61e49d4f5c85998bc33d3b45

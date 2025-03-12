@@ -1,0 +1,5 @@
+summary: Library to simplify the drawing of curves
+webpage: https://github.com/fontforge/libspiro
+version: 20221101
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libspiro-20221101-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: aefecbe9a3a844bf03ff7b50b2515bd0089d78faecfa9b0e14cad0090bbfd340

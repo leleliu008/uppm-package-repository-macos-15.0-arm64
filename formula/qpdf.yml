@@ -1,5 +1,5 @@
 summary: A command-line tool that performs content-preserving transformations on PDF files
 webpage: https://github.com/qpdf/qpdf
 version: 11.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/qpdf-11.9.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 3aa62af00934d8a943028851f44808c67ff9b1a74206d56fe2901ccf5f8b201f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/qpdf-11.9.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: cada21001ab4047bfbe3443450c9e5c9bc6a35f603d625915dc405faf90247df

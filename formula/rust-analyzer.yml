@@ -1,5 +1,5 @@
 summary: A Rust compiler front-end for IDEs
 webpage: https://rust-analyzer.github.io/
 version: 2024.05.27
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/rust-analyzer-2024.05.27-MacOSX-15.0-arm64..tar.xz
-bin-sha: 411f6a60b4892c1b73f2f4939b94fbbadb6e80ee0df9c981c9130e0e5adc0eca
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/rust-analyzer-2024.05.27-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 470c3894f003b2bff7c52f7b91c56ca57a1f4b5aa0ae689ba6de421377502e1b

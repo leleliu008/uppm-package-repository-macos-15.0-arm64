@@ -1,5 +1,5 @@
 summary: Library for computing and verifying hash sums of files
 webpage: http://rhash.sourceforge.net
 version: 1.4.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/librhash-1.4.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: b469abfde9aa98ad18391256f6a7393faf49a231d9d1be63ec2d0d2cae14cde9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/librhash-1.4.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 2f4a446893ff0e6b5a4ee61d9442f20add3b61770529b357ceba8a3a1aafb34e

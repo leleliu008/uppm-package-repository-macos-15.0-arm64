@@ -1,5 +1,5 @@
 summary: Fake keyboard/mouse input and window management for X
 webpage: https://www.semicomplete.com/projects/xdotool/
 version: 3.20211022.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/xdotool-3.20211022.1-MacOSX-15.0-arm64..tar.xz
-bin-sha: 698763defdfbfa90ea0fcc12fa0a413beaddca29bdbeb0b4f2c3d78213c9b7be
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/xdotool-3.20211022.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 313f3af7ab5dd659c91621f01593c6e25a70e042f367cf07c375bdb005d47964

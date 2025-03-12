@@ -1,5 +1,5 @@
 summary: Packaged version of iLBC codec from the WebRTC project
 webpage: https://github.com/TimothyGu/libilbc
 version: 3.0.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libilbc-3.0.4-MacOSX-15.0-arm64..tar.xz
-bin-sha: 93410dc0d0b1c5b71ac4e0a0ec2401db17b6f831e4e00001fa8d46e318d5a8e8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libilbc-3.0.4-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 360d8cbe252348bd49379257c4959e74ca3a868d1ea218f17b192b2f341b5df8

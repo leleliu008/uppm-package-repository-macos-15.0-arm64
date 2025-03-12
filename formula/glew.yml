@@ -1,5 +1,5 @@
 summary: OpenGL Extension Wrangler Library
 webpage: https://glew.sourceforge.io/
 version: 2.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/glew-2.2.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: c43302372aad307f0a7b4ab28640873a339f8bfe5be1076e2a06401115f2fc98
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/glew-2.2.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 270212c75b26b1263600e1b982460a50392cd1356cfd29e654ff6bc4d9899ba8

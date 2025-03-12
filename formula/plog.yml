@@ -1,5 +1,5 @@
 summary: A portable, simple and extensible logging library for C++
 webpage: https://github.com/SergiusTheBest/plog
 version: 1.1.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/plog-1.1.10-MacOSX-15.0-arm64..tar.xz
-bin-sha: 94f1bfa4960ae50b5bd767940abb82a491e29279f1295c4cb252be926e91a40b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/plog-1.1.10-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 9fee899c198dcb2bd0f3a129dd6929dd9531c01a70a02ec80be9b7d98233a7d8

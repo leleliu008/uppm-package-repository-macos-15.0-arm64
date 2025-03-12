@@ -1,5 +1,5 @@
 summary: A library to Access SMI MIB Information
 webpage: https://www.ibr.cs.tu-bs.de/projects/libsmi
 version: 0.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.09/libsmi-0.5.0-MacOSX-15.0-arm64..tar.xz
-bin-sha: b07af87c69256d8404948a83536c89e5ce97f64c66ccf57b9740e514c9cbd657
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libsmi-0.5.0-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 3b891423d97c6a34fe291583b155631c4b3a073cde14f3055aa210e8c4eb4e5a

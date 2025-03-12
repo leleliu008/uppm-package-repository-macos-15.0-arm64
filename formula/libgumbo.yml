@@ -1,0 +1,5 @@
+summary: C99 library for parsing HTML5
+webpage: https://github.com/google/gumbo-parser
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libgumbo-0.10.1-MacOSX-15.0-arm64.release.tar.xz
+bin-sha: 7b818d96b2b8878749086f923df7bce6c1f2b38fb50b9cea1292fd51cf54960a

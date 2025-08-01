@@ -1,5 +1,5 @@
 summary: perl runtime
 webpage: https://www.perl.org/
 version: 5.40.2
-bin-url: https://github.com/fpliu1214/perl-distribution/releases/download/5.40.2/perl-5.40.2-macos-15.0-arm64.tar.xz
-bin-sha: b764a765cbbeb1f7189b3d07d11ec147aed30a67cea273be1ab2053f81393b53
+bin-url: https://github.com/leleliu008/perl-distribution/releases/download/5.40.2/perl-5.40.2-macos-15.0-arm64.tar.xz
+bin-sha: 618bee28bb86675ee3dc1214cd89978cb5dfe0f140ef89e3bce69d4ff2d07ebf

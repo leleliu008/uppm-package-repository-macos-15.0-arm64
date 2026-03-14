@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [aalib, abook, act, actionlint, adig, ag, age, alacritty, alass, algernon, aliyun-cli, anchor-cli, antibody, aom, apkeep, aptly, archiver, args, aria2, arping, autoconf-archive, automake, autossh, awk, axel, azcopy, b3sum, bandwhich, base16, base64, bash, basis_universal, bat, bazelisk, bcrypt, bdw-gc, bear, berkeley-db, bgrep, binaryen, bind, binocle, bison, bit, bitcoin, bk, blockhash, bmake, boringssl, botan, bottom, boxes, brook, broot, brotli, bsdtar, bullet, byacc, bzip2, c-examples, caddy, caf, cargo-c, cargo-deb, catch2, catimg, cbindgen, ccache, cereal, cflow, cgal, chafa, cheat, check, chezmoi, chicken, chinese-calendar, chisel, choose, chrome-cli, cilium-cli, cli11, clog, cmake, cmark, cmatrix, code-cli, coreutils, cotp, cpio, cpp-httplib, cppcheck, cppunit, cpu_features, cpuid, cpuinfo, croc, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dash, dav1d, ddgr, delta, desktop-file-utils, difftastic, diffutils, distcc, dmalloc, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dolt, dos2unix, dot_static, doxygen, dtc, dua, duf]
+        pkg: [aalib, abook, act, actionlint, adig, ag, age, alacritty, alass, algernon, aliyun-cli, amfora, anchor-cli, antibody, aom, apkeep, aptly, archiver, args, aria2, arping, atuin, autoconf-archive, automake, autossh, awk, axel, azcopy, b3sum, bandwhich, base16, base64, bash, basis_universal, bat, bazelisk, bc, bcrypt, bear, berkeley-db, bgrep, binaryen, bind, binocle, biome, bison, bit, bitcoin, bk, blockhash, bmake, boringssl, botan, bottom, boxes, brook, broot, brotli, bsdtar, bssl, buf, bullet, byacc, bzip2, bzip3, c-examples, caddy, cargo-c, cargo-deb, carthage, catch2, catimg, cbindgen, ccache, cereal, cflow, cgal, chafa, cheat, check, chezmoi, chicken, chinese-calendar, choose, chrome-cli, cilium-cli, cli11, clog, cmake, cmake@3, cmark, cmatrix, code-cli, coreutils, cotp, cpio, cppcheck, cppunit, cpufetch, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dash, dav1d, ddgr, delta, desktop-file-utils, difftastic, diffutils, distcc, dmalloc, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dolt]
 
     runs-on: macos-15
 
@@ -63,7 +63,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [dufs, duktape, dust, dylibbundler, easyutils, ed, elftool, elvish, epsilon, erdtree, esbuild, ethereum, exa, exhale, exif, exiv2, eza, faac, faad2, fastfetch, fcp, fd, fdroidcl, fff, figlet, file, findent, findutils, fish, flac, flatc, flex, flock, fnm, fontconfig, fontforge, fortune, frei0r, fselect, fsmon, fswatch, fx, fzf, fzy, g, garble, gat, gawk, gbt, gdu, geographiclib, germanium, getopt, gettext-tools, gf, gh, ghostscript, ghr, giflib, git, git-cliff, git-lfs, gitui, gitwatch, glew, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, go-md2man, go-tools, gobject-introspection@1.78, godu, gogs, gojq, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gping, gpsim, gputils, grep, grex, gron, grpc-plugins, gsed, gtar, gtime, gzip, halibut, helix, helm, help2man, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hydroxide, hyperfine, id3lib, ideviceinstaller, invoice, ixwebsocket, jbig2dec, jemalloc, jfrog-cli, jj, jless, jo, joshuto, jpegoptim, jq, json-glib]
+        pkg: [dos2unix, dot_static, doxygen, dtc, dua, duf, dufs, duktape, dust, dylibbundler, easyutils, ed, elftool, elvish, epsilon, erdtree, esbuild, ethereum, exa, execline, exhale, exif, exiv2, eza, faac, faad2, fastfetch, fcp, fd, fdroidcl, fff, figlet, file, findent, findutils, fish, fish@3, flac, flatc, flex, flock, fnm, fontconfig, fontforge, frei0r, fselect, fsmon, fswatch, fx, fzf, fzy, g, garble, gat, gawk, gbt, gcli, gdu, gemgen, geographiclib, germanium, getopt, gettext-tools, gf, gh, ghostscript, ghr, giflib, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glew, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnuplot, go-md2man, go-tools, godu, gogs, gojq, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gping, gpsim, gputils, grep, grex, groff, gron, grpc-plugins, gsed, gtar, gtime, gtk-doc, gum, gzip, halibut, hdiffpatch, helix, helm, help2man, hevi, hexdump, hexyl, hpack, htop, httpx, hugo, hunspell, hurl, hydroxide]
 
     runs-on: macos-15
 
@@ -117,7 +117,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [jump, k9s, kcp, kcptun, ko, krb5, lame, lazygit, lcms2, lcov, leptonica, less, lf, libaec, libao, libaria2, libasprintf, libasync++, libb2, libb64, libbcrypt, libblake3, libbrpc, libcaca, libcddb, libcdio, libcerf, libcfitsio, libcgif, libcpuinfo, libcroco, libdb, libduktape, libepoxy, libexhale, libexiv2, libfdk-aac, libflatbuffers, libftgl, libglm, libgpgme, libgraphene, libilbc, libimagequant, libintl-lite, libirecovery, libisoburn, libjpeg, libkrb5, liblinear, liblmdb, libmaxminddb, libmd, libmesalink, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiz, libmms, libmpv, libnetpbm, libnng, libolm, libopenh264, libopusenc, libp11-kit, libphonenumber, libphysfs, libpipeline, libpkcs11-helper, libpng++, libpsl, libpugixml, libqalculate, libqpdf, libquiche, libraqm, librasterlite2, libraw, libre, librealsense, libressl, libresvg, librist, librtmp, libsimdjson, libskcms, libsmi, libsndfile, libspectre, libspng, libsrtp, libsvg, libsvm, libtalloc, libtextstyle, libthai, libtinyxml2, libtool, libtorrent-rasterbar, libtwolame, libupnp, libusrsctp, libuuid, libvips, libwasmtime, libwavpack, libwebm, libwmf, libxcrypt, libxml2-python3, libxmlrpc-c, libyajl, libyaml-cpp, libyuv, libzim, libzlog, lief, lighttpd, links, livego, llhttp, lmdb, lodepng, log4cplus, lolcat]
+        pkg: [hyperfine, id3lib, ideviceinstaller, intltool, invoice, jackaudio, jaq, jbig2dec, jemalloc, jfrog-cli, jj, jless, jo, joshuto, jpegoptim, jq, json-glib, jump, just, k9s, kcp, ko, kondo, krb5, lame, lazydocker, lazygit, lazyjournal, lazysql, lcms2, lcov, less, lf, libLIEF, libaec, libaria2, libasprintf, libasync++, libatomic_ops, libb2, libb64, libbcrypt, libbrpc, libbsd, libcaca, libcaf, libcddb, libcdio, libcfitsio, libcgif, libchafa, libcpu_features, libcpuinfo, libcroco, libcss, libczmq, libduktape, libepoxy, libexhale, libexiv2, libfaac, libfdk-aac, libflatbuffers, libftgl, libgc, libgit2@1.7, libglm, libgraphene, libicu@75, libilbc, libimagequant, libintl-lite, libirecovery, libisl, libisoburn, libixwebsocket, libjpeg, libjq, libkrb5, liblinear, liblmdb, libmaxminddb, libmesalink, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiz, libmms, libmpc, libmpir, libmpv, libnetpbm, libnng, libolm, libopenh264, libp11-kit, libphonenumber, libphysfs, libpipeline, libpkcs11-helper, libpng++, libpsl, libpugixml, libqalculate, libqpdf, libquiche, libraqm, librasterlite2, libraw, libre, librealsense, libressl, libresvg, librist, librtmp, libsimdjson, libsjpeg, libskcms, libsmi, libsndfile, libspectre, libspng, libsrtp, libsvg, libsvm, libtalloc]
 
     runs-on: macos-15
 
@@ -171,7 +171,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [lowdown, lrzip, lsd, lsof, lua, luajit, luau, lunatic, lunzip, lychee, lynx, lz4, lzip, lzo, lzop, magic_enum, mandoc, mawk, mcfly, md4c, mdbook, mdcat, mediainfo, mesa, minisign, miniz, minizip, mist-cli, mksh, mold, mosh, mozjpeg, mozjpeg2, mpg123, mpv, msgpack-c, mujs, mupdf, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, nspr, ntbtls, nuclei, nushell, oat++, obfs4proxy, oggz, oha, oksh, ollama, onefetch, openal-soft, opencolorio, opencv, openlibm, openmpi, openslide, openssh, orcc, osx-cpu-temp, ouch, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pegof, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proj7, psimd, psutils, pup, putty, pv, pybind11, python@3.10, python@3.11, python@3.12, python@3.9, q, qemu, qpdf, qrencode, quiche, quickjs, ragel, rang, ranger, rapidjson, rav1e, rbspy, rclone, re2c, redis, restic, resvg, rhash]
+        pkg: [libtbox, libtextstyle, libthai, libtinyxml2, libtool, libtorrent-rasterbar, libtre, libtwolame, libultrahdr, libunbound, libupnp, libusrsctp, libuuid, libvips, libwasmtime, libwavpack, libwebm, libwmf, libwolfssh, libxml2-python3, libyajl, libyaml-cpp, libyuv, libyyjson, libzim, libzlog, lighttpd, links, livego, llhttp, llvm+clang+lld@18, llvm+clang+lld@20, llvm+clang@18, llvm@16, llvm@17, llvm@18, llvm@19, llvm@20, lmdb, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, lua, luajit, luau, lunatic, lunzip, lychee, lynx, lz4, lzip, lzo, lzop, magic_enum, mandoc, marisa, mawk, mbedtls@4, mcfly, md4c, mdbook, mdcat, mediainfo, mesa, minisign, mist-cli, mksh, mold, mole, mosh, mozjpeg, mozjpeg2, mpdecimal, mpg123, mpv, msgpack-c, mujs, mupdf, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, nethogs, netpbm, nghttp2, nghttp3, nginx, ngtcp2, nim, ninja, nnn, nodejs@22, nodejs@23, nodejs@24, nsh, ntbtls, nuclei, nushell, oat++, obfs4proxy, oggz, oha, oksh, ollama, onefetch, openal-soft, opencc, opencolorio, opencv, openjpeg, openlibm, openmpi, openslide, openssh, openssl, ops, opus-tools, orbiton, orcc, osx-cpu-temp, ouch]
 
     runs-on: macos-15
 
@@ -225,7 +225,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [ripgrep, ripgrep-all, rlwrap, rover, rsass, rsign2, rsync, rtmpdump, rtorrent, ruby, ruff, rust-analyzer, rustic, rustup-init, samurai, sassc, scc, sccache, scdoc, screenresolution, sd, shc, shell2http, shellharden, shiori, silicon, sjpeg, sl, slang, socat, soundtouch, speex, spirv-tools, sq, sqlite3, starship, stwolame, stylua, subfinder, superfile, supervisord, suricata, svn-lite, svt-av1, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tbox, tcc, tcl, tcpdump, tealdeer, tectonic, tengo, terragrunt, texinfo, tic, tiff, tig, tinysearch, tlrc, tmux, tokei, toml++, toml11, tree, trietool, ttyd, ttygif, ttyrec, tut, tweego, twolame, typos, uctags, unbound, unixodbc, unrar, unxip, unzip, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, upx, utf8.h, utfcpp, util-linux, uv, vala, valijson, vapoursynth, vegeta, virustotal-cli, viu, volta, vsftpd, wabt, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, webp, websocketpp, wget, whois, woff2, wolfssl, x264, x265, xdotool, xh, xmake, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence]
+        pkg: [oxlint, p7zip, packcc, pandoc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pegof, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, prek, procs, progress, proj, proj7, proto-cli, psc-package, psimd, pup, putty, pv, pybind11, python@3.10, python@3.11, python@3.12, python@3.13, python@3.9, q, qalc, qbittorrent-cli, qemu, qman, qpdf, qrencode, quickjs, ragel, rang, ranger, rapidjson, rav1e, rbspy, rclone, re2c, readpe, redis, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, rover, rsass, rsign2, rsync, rtmpdump, rtorrent, ruby, ruff, rust-analyzer, rustic, rustup-init, samtools, samurai, sassc, scc, sccache, scdoc, screenresolution, sd, semtools, shc, shell2http, shellcheck, shellharden, shiori, signify, silicon, simplex-chat, sl, slang, slumber, sndfile, socat, soundtouch, speex, spirv-tools, sq, sqldiff, sqlite-analyzer, sqlite3, stack, starship, stew, sttr, stwolame, stylua, subfinder, superfile, supervisord, suricata, svn-lite, svt-av1, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tcc, tcpdump, tcping, tealdeer, tectonic]
 
     runs-on: macos-15
 
@@ -279,7 +279,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, yazi, ycm, youtubedr, yq, yyjson, zellij, zeta, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsv, zsync]
+        pkg: [tengo, termsvg, terragrunt, tesseract, texinfo, tic, tiff, tig, timg, tinysearch, tldr, tlrc, tmux, tokei, toml++, toml11, tor, torsocks, tre, tree, tree-sitter, trietool, trivy, ttyd, ttygif, ttyrec, tut, tweego, twolame, typos, uctags, unbound, unixodbc, unrar, unxip, unzip, update-mime-database, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, upx, utf8.h, util-linux, uutils-coreutils, uv, vala, valijson, vapoursynth, vegeta, virustotal-cli, viu, volta, vorbis-tools, vsftpd, wabt, wasm3, wasmer, wasmtime, watchexec, watchman, wavpack, webhook, webp, websocketpp, wget, whois, wiki-tui, woff2, wolfssh, wuzz, x264, x265, xcbeautify, xcpkg, xdotool, xh, xmake, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence, xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xsv, xxd, xxhash, xz, yasm, yazi, ycm, youtubedr, yq, zellij, zeta, zigmod, zip, zizmor, zlib, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsync]
 
     runs-on: macos-15
 
@@ -365,34 +365,7 @@ jobs:
 
           tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
 
-          sha256sum *.tar.xz > sha256sums.txt
-
-          cat > notes.md <<EOF
-          these packages are created by [xcpkg](https://github.com/leleliu008/xcpkg).
-
-          ## Environment Variables
-
-          **following environment variables should be set for \`git\` package**
-
-          \`\`\`bash
-          export GIT_EXEC_PATH="\$GIT_INSTALL_DIR/libexec/git-core"
-          export GIT_TEMPLATE_DIR="\$GIT_INSTALL_DIR/share/git-core/templates"
-          \`\`\`
-
-          **following environment variables should be set for \`file\` package**
-
-          \`\`\`bash
-          export MAGIC="\$FILE_INSTALL_DIR/share/misc/magic.mgc"
-          \`\`\`
-
-          ## sha256sum
-
-          \`\`\`
-          $(cat sha256sums.txt)
-          \`\`\`
-          EOF
-
-          gh release create "$TAGNAME" sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+          gh release create "$TAGNAME" --title "$TAGNAME" --notes 'These packages are created by [xcpkg](https://github.com/leleliu008/xcpkg)'
 
           for f in *.tar.xz
           do

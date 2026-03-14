@@ -31,34 +31,7 @@
 
           tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
 
-          sha256sum *.tar.xz > sha256sums.txt
-
-          cat > notes.md <<EOF
-          these packages are created by [xcpkg](https://github.com/leleliu008/xcpkg).
-
-          ## Environment Variables
-
-          **following environment variables should be set for \`git\` package**
-
-          \`\`\`bash
-          export GIT_EXEC_PATH="\$GIT_INSTALL_DIR/libexec/git-core"
-          export GIT_TEMPLATE_DIR="\$GIT_INSTALL_DIR/share/git-core/templates"
-          \`\`\`
-
-          **following environment variables should be set for \`file\` package**
-
-          \`\`\`bash
-          export MAGIC="\$FILE_INSTALL_DIR/share/misc/magic.mgc"
-          \`\`\`
-
-          ## sha256sum
-
-          \`\`\`
-          $(cat sha256sums.txt)
-          \`\`\`
-          EOF
-
-          gh release create "$TAGNAME" sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+          gh release create "$TAGNAME" --title "$TAGNAME" --notes 'These packages are created by [xcpkg](https://github.com/leleliu008/xcpkg)'
 
           for f in *.tar.xz
           do

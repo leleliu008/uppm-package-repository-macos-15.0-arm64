@@ -14,32 +14,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -68,32 +71,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -122,32 +128,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -176,32 +185,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -230,32 +242,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -284,32 +299,35 @@ jobs:
     runs-on: macos-15
 
     steps:
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
-      - run: chmod +x xcpkg
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
 
-      - run: ./xcpkg about
-      - run: ./xcpkg setup
-      - run: ./xcpkg update
-      - run: ./xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
 
       - name: pack
         run: |
           set -ex
 
-          for item in $(./xcpkg ls-installed)
+          for item in $(bin/xcpkg ls-installed)
           do
-              ./xcpkg bundle "$item" .tar.xz
+              bin/xcpkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+              ls
+
+              PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
               PACKAGE_NAME="${PACKAGE_NAME%@*}"
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 

@@ -1,0 +1,59 @@
+  buildN:
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: [ITEMS]
+
+    runs-on: macos-15
+
+    steps:
+      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
+      - run: rm xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
+
+      - run: bin/xcpkg about
+      - run: bin/xcpkg sysinfo
+
+      - run: bin/xcpkg update
+      - run: bin/xcpkg install MacOSX-15.0-arm64/${{ matrix.pkg }}
+
+      - name: pack
+        run: |
+          set -ex
+
+          install -d bundle/
+
+          for item in $(bin/xcpkg ls-installed)
+          do
+              bin/xcpkg bundle "$item" .tar.xz
+
+              PACKAGE_SUMMARY="$(bin/xcpkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(bin/xcpkg show "$item" web-url)"
+              PACKAGE_VERSION="$(bin/xcpkg show "$item" version)"
+
+              PACKAGE_FILENAME="$(ls *.tar.xz)"
+
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
+
+              PACKAGE_NAME="${item#*/}"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_FILENAME
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
+
+              mv *.tar.xz bundle/
+          done
+
+          mv bundle/*.tar.xz .
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.pkg }}
+          path: |
+            ./*.tar.xz
+            ./*.yml
+

@@ -14,14 +14,33 @@ ls *.yml | sed 's|\.yml$||' | sort | uniq > a
 
 sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
+#######################################################
+
+SWIFT_PKGS=
+SWIFT_PKGS2=
+
+for item in nodejs@24 simplex-chat psc-package $(grep -E '(bsystem: swift|install: swiftw)' -rl .)
+do
+    item="${item#./}"
+    item="${item%.yml}"
+    SWIFT_PKGS="$SWIFT_PKGS $item"
+    SWIFT_PKGS2="$SWIFT_PKGS2, $item"
+done
+
+SWIFT_PKGS2="${SWIFT_PKGS2#,}"
+
+#######################################################
+
 SED="sed -e s|^-||"
 
-for item in chisel d8 fortune psutils redex koka stack
+for item in chisel d8 fortune psutils redex koka stack $SWIFT_PKGS
 do
     SED="$SED -e /^$item$/d"
 done
 
 echo "SED=$SED"
+
+#######################################################
 
 PKGS="$(diff -U 0 a b | sed '/^--/d' | grep '^-' | $SED)"
 
@@ -32,29 +51,32 @@ echo "PKGS_COUNT=$PKGS_COUNT"
 
 cd -
 
-cat > .github/workflows/publish.yml <<EOF
+#######################################################
+
+cat > publish.yml <<EOF
 name: publish
 
 on:
   workflow_dispatch
 
 jobs:
+
 EOF
 
-unset ITEMS
-unset NEEDS
+gsed -e 's|macos-15|macos-26|' -e "s|buildN|build0|" -e "s|ITEMS|$SWIFT_PKGS2|" build >> publish.yml
 
-I=0
+#######################################################
+
+ITEMS=
+NEEDS='build0'
+
+I=1
 J=0
 K=0
 
 for item in $PKGS
 do
-    if [ -z "$ITEMS" ] ; then
-        ITEMS="$item"
-    else
-        ITEMS="$ITEMS, $item"
-    fi
+    ITEMS="$ITEMS, $item"
 
     K=$(($K + 1))
 
@@ -64,84 +86,23 @@ do
     echo "K=$K"
 
     if [ "$J" = 128 ] || [ "$K" = "$PKGS_COUNT" ] ; then
-        J=0
+        gsed -e "s|buildN|build$I|" -e "s|ITEMS|${ITEMS#,}|" build >> publish.yml
+
+        ITEMS=
+        NEEDS="$NEEDS, build$I"
+
         I=$(($I + 1))
-
-        cat >> .github/workflows/publish.yml <<EOF
-
-  build$I:
-    strategy:
-      fail-fast: false
-      matrix:
-        pkg: [$ITEMS]
-
-    runs-on: macos-15
-
-    steps:
-      - run: curl -LO https://github.com/leleliu008/test/releases/download/2023.10.08/xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz
-      - run: /usr/bin/bsdtar xf xcpkg-0.30.0-macos-15.0-arm64.release.tar.xz --strip-components=1
-
-      - run: bin/xcpkg about
-      - run: bin/xcpkg sysinfo
-
-      - run: bin/xcpkg update
-      - run: bin/xcpkg install MacOSX-15.0-arm64/\${{ matrix.pkg }}
-
-      - name: pack
-        run: |
-          set -ex
-
-          for item in \$(bin/xcpkg ls-installed)
-          do
-              bin/xcpkg bundle "\$item" .tar.xz
-
-              ls
-
-              PACKAGE_SUMMARY="\$(bin/xcpkg info-installed "\$item" summary)"
-              PACKAGE_WEB_URL="\$(bin/xcpkg info-installed "\$item" web-url)"
-              PACKAGE_VERSION="\$(bin/xcpkg info-installed "\$item" version)"
-
-              PACKAGE_NAME="\${item#*/}"
-              PACKAGE_NAME="\${PACKAGE_NAME%@*}"
-
-              PACKAGE_FILENAME="\$(ls \$PACKAGE_NAME-\$PACKAGE_VERSION-*.tar.xz)"
-
-              PACKAGE_BIN_SHA="\$(bin/xcpkg util sha256sum "\$PACKAGE_FILENAME")"
-
-              PACKAGE_BIN_URL="https://github.com/\${{ github.repository }}/releases/download/@TAGNAME@/\$PACKAGE_FILENAME"
-
-              cat > "\$PACKAGE_NAME.yml" <<EOF
-          summary: \$PACKAGE_SUMMARY
-          webpage: \$PACKAGE_WEB_URL
-          version: \$PACKAGE_VERSION
-          bin-url: \$PACKAGE_BIN_URL
-          bin-sha: \$PACKAGE_BIN_SHA
-          EOF
-          done
-
-      - uses: actions/upload-artifact@v6
-        with:
-          name: \${{ matrix.pkg }}
-          path: |
-            ./*.tar.xz
-            ./*.yml
-EOF
-
-        unset ITEMS
-
-        if [ -z "$NEEDS" ] ; then
-            NEEDS="build$I"
-        else
-            NEEDS="$NEEDS, build$I"
-        fi
+        J=0
     fi
 done
 
-cat >> .github/workflows/publish.yml <<EOF
+cat >> publish.yml <<EOF
 
   publish:
     needs: [$NEEDS]
 
 EOF
 
-cat >> .github/workflows/publish.yml < foot
+cat foot >> publish.yml
+
+mv publish.yml .github/workflows/

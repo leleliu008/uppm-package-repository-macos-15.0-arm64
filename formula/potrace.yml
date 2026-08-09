@@ -1,0 +1,5 @@
+summary: A command-line tool for converting bitmaps to vector graphics
+webpage: https://github.com/skyrpex/potrace
+version: 1.16
+bin-url: https://github.com/leleliu008/ppkg-package-manually-build/releases/download/potrace-1.16-macos-15.0-arm64.release.tar.xz/potrace-1.16-macos-15.0-arm64.release.tar.xz
+bin-sha: 3de258e56c12577a9e3baaf3037bbe8261d11e319458001c43ade594e6c0e432

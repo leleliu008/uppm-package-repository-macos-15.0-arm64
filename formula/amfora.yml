@@ -1,0 +1,5 @@
+summary: A fancy terminal browser for the Gemini protocol
+webpage: https://github.com/makew0rld/amfora
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/amfora-1.11.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: b68d088f9a598386a3dacdb21962a004f9c222428f28f994308d21b72c23c5ad

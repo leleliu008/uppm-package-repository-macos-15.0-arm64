@@ -1,5 +1,5 @@
 summary: ODBC 3 connectivity for UNIX
-webpage: http://www.unixodbc.org/
+webpage: https://www.unixodbc.org/
 version: 2.3.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/unixodbc-2.3.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 12db2afeee6c072a4e6264babd0728b6289d54107701d316ae7a36585aa2bf68
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/unixodbc-2.3.12-MacOSX-15.0-arm64.tar.xz
+bin-sha: 2bc5e8cc624e3476a4bef2ada7fc356e9159b1a25e9bcc40799785f3d051349a

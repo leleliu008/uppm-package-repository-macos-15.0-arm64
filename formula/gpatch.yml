@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://www.gnu.org/software/patch
+version: 2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/gpatch-2.8-MacOSX-15.0-arm64.tar.xz
+bin-sha: d29264069dbd18680da1fe487f3d3e12e12bce6fc9ee88e2b7c3703a68052889

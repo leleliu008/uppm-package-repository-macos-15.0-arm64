@@ -1,5 +1,5 @@
 summary: A small, clean C library for processing UTF-8 Unicode data
 webpage: https://juliastrings.github.io/utf8proc
-version: 2.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libutf8proc-2.9.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: dccd88ccd96074cecd0af176f381f7d1a9e1a12d28691ed2962776fa8fc103ac
+version: 2.11.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libutf8proc-2.11.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: c15ddd385c0b3f780f032f7acd31182a236c32f4791d216d5a8cc3af9637880f

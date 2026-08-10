@@ -1,0 +1,5 @@
+summary: A growing collection of the Unix tools that nobody thought to write long ago, when Unix was young
+webpage: https://joeyh.name/code/moreutils/
+version: 0.70
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/moreutils-0.70-MacOSX-15.0-arm64.tar.xz
+bin-sha: cb98a6a6629784b043c61aaa4242da8a08301fcb487462da58004381852683f8

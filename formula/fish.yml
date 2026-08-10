@@ -1,5 +1,5 @@
-summary: User-friendly command-line shell for UNIX-like operating systems
+summary: A smart and user-friendly command-line shell
 webpage: https://fishshell.com/
-version: 3.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/fish-3.7.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 8236488975976c9a2da89fd364b8419b063098e9357f68f230bff36a35a92d71
+version: 4.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/fish-4.5.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: a5908fb199f8ac66d1175129141a045d8541ec6036aa82fd97ef2c32f591aae1

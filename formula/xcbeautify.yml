@@ -1,0 +1,5 @@
+summary: A small beautifier tool for xcodebuild
+webpage: https://github.com/cpisciotta/xcbeautify/
+version: 3.1.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/xcbeautify-3.1.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: 3fe501166292c740ca4643057a9312a2f1498b696012730b4aea5175be09b093

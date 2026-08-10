@@ -1,0 +1,5 @@
+summary: A package manager for the Zig programming language
+webpage: https://nektro.github.io/zigmod/
+version: 98
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/zigmod-98-MacOSX-15.0-arm64.tar.xz
+bin-sha: c9d3258d8852aa627813d8ce972a61adccd805427b658b6d1fa02e4316d3e1e3

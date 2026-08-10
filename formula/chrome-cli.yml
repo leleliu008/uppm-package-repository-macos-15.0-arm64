@@ -1,5 +1,5 @@
 summary: Control Google Chrome from the command-line
 webpage: https://github.com/prasmussen/chrome-cli
-version: 1.9.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/chrome-cli-1.9.3-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 09933cc8fd09d9a17b624a916d5bbf78c8e454e099389c0ed05f37717baf0c09
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/chrome-cli-1.11.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: df577206996cd973d73efca62dd9f52f4c30e3f4a8857504917b4bb854763b63

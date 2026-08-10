@@ -1,0 +1,5 @@
+summary: CLI tool for parsing mach-o files to obtain Swift information
+webpage: https://github.com/MxIris-Reverse-Engineering/MachOSwiftSection/
+version: 0.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/swift-section-0.7.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: a6fe9c2157098d3a4d5757c82b840dfd3e8a95f81d01d340010f1f638c276c35

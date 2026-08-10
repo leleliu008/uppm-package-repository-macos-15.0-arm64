@@ -1,5 +1,5 @@
 summary: PNG image optimizing utility
 webpage: https://pngquant.org
-version: 3.0.3.crate
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/pngquant-3.0.3.crate-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 960b331bff94b757b7d6f312627bab4a2abfa11b61787e27bde4f273cebb1cc6
+version: 3.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/pngquant-3.0.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: b384e882e37edd5f719d5f61f322600775a6346ae8a48dbf8c6c17f802ebf714

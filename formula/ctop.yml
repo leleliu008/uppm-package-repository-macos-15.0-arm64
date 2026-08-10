@@ -1,5 +1,5 @@
 summary: Top-like interface for container metrics
 webpage: https://ctop.sh
 version: 0.7.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ctop-0.7.7-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 43f36fd45ad7ae6e80f8ac3269fe216265226df62566d6d811f477ef29ba1cce
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/ctop-0.7.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: 015a398808c0095b344d590dfe730e8f413e8d356804aa0fbab1e0951c709bd5

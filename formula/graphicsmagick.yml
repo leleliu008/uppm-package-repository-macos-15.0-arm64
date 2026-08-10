@@ -1,0 +1,5 @@
+summary: Image processing tools collection
+webpage: http://www.graphicsmagick.org/
+version: 1.3.43
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/graphicsmagick-1.3.43-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7fafe4cc199f5fc144c6f260f4789e576bb8e4d8c90c9f60e2d70739d0e58a42

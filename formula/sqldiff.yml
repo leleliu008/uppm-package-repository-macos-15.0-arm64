@@ -1,0 +1,5 @@
+summary: A command-line utility program that displays content differences between SQLite databases
+webpage: https://www.sqlite.org/
+version: 3.51.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/sqldiff-3.51.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: b4d799c1b4502717105d4b3753099363db065e5a59f269ede590aecffa4d3e9a

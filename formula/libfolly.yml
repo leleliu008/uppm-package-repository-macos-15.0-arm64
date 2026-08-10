@@ -1,0 +1,5 @@
+summary: A collection of reusable C++ library artifacts developed at Facebook
+webpage: https://github.com/facebook/folly
+version: 2026.01.12.00
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libfolly-2026.01.12.00-MacOSX-15.0-arm64.tar.xz
+bin-sha: 59108b3efd477648ffdd6d3c61c9863239da9252f271ce6a6abbada2b8f5d4f4

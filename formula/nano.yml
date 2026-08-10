@@ -1,5 +1,5 @@
 summary: Free (GNU) replacement for the Pico text editor
 webpage: https://www.nano-editor.org/
-version: 8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/nano-8.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 416ee89c8b5daef3156aace0c05b9ea4205d67a550a010bc5e6d0bdca660a8a0
+version: 8.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/nano-8.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: 72ce74b64cbf466f959a9780869c90d14782efac358c59162e25b070f0d3b866

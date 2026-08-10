@@ -1,0 +1,5 @@
+summary: BoringSSL CLI
+webpage: https://boringssl.googlesource.com/boringssl/
+version: 0.20260211.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/bssl-0.20260211.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9dfd93c5183d7559ff42b474762dfb70e432177ffdbe93b03e0a0d55a05dc492

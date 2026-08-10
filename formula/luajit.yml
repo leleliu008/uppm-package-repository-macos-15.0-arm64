@@ -1,5 +1,5 @@
 summary: Just-In-Time Compiler (JIT) for the Lua programming language
 webpage: https://luajit.org/
-version: 2.1.1716656478
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/luajit-2.1.1716656478-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 7c472ff8e34a8f52f1b5b1107e4904ca87dec055808673a81e605a92d4e72bec
+version: 2.1.1774896198
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/luajit-2.1.1774896198-MacOSX-15.0-arm64.tar.xz
+bin-sha: 97b24cc8b36b1a52d6518e9812ac968983dea6728ccfc64c412f65a719375bf1

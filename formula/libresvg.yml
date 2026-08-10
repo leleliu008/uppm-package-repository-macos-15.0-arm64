@@ -1,5 +1,5 @@
-summary: A C library to convert SVG to PNG
+summary: C library to convert SVG to PNG
 webpage: https://github.com/RazrFalcon/resvg
-version: 0.42.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libresvg-0.42.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 66c8d4c8dc8ac0c7e84f8e8eca77cc7d3f93164699c69fe9d8164a9b1655cf36
+version: 0.46.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libresvg-0.46.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 908e8963fb8faf5cbcc4e71716559cdba7d61ceb7d1635e3122c7f9dfdb1a53f

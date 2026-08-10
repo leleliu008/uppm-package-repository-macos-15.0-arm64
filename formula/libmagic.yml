@@ -1,5 +1,5 @@
-summary: A C library to determine file types
+summary: C library to determine file types
 webpage: https://www.darwinsys.com/file
-version: 5.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libmagic-5.45-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: e66d8a85deff29dbbd0c96783f72cdad1222f610d0f6cd2479886db5d4668283
+version: 5.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libmagic-5.47-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9a810149f4c0afa9c79977dd0cedd5d52ce8e369435cbcd1373c626ec5cdb12e

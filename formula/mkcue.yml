@@ -1,0 +1,5 @@
+summary: Generate a CUE sheet from a CD
+webpage: https://packages.debian.org/sid/mkcue
+version: 1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/mkcue-1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7c4bc2b8f6c14b18ca0b568a9de696a4b38dd990c6d150c1fb2f76f0ace5068a

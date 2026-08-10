@@ -1,5 +1,5 @@
 summary: JSON, YAML, TOML, XML, and CSV query and modification tool
 webpage: https://github.com/TomWright/dasel
-version: 2.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/dasel-2.7.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: d52892f883df17a1c9c5c8e7784ef35bdbf5334cb0e104752f71d89c4b99bd56
+version: 3.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/dasel-3.2.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 1603a3d2f8366a5658e56b36cc2d4c45a387e4eea8d34756d4afce35c8eb4b1d

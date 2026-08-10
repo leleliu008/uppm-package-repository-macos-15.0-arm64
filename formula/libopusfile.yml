@@ -1,0 +1,5 @@
+summary: API for decoding and seeking in .opus files
+webpage: https://www.opus-codec.org/
+version: 0.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libopusfile-0.12-MacOSX-15.0-arm64.tar.xz
+bin-sha: 140441d79690c2d410cac00398063e2ad80aad0456fb49b495b8b131da5e5633

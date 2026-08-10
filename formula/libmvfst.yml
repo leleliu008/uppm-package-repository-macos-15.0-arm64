@@ -1,0 +1,5 @@
+summary: QUIC transport protocol implementation
+webpage: https://github.com/facebook/mvfst
+version: 2026.01.12.00
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libmvfst-2026.01.12.00-MacOSX-15.0-arm64.tar.xz
+bin-sha: bf0c58e1d827d16ff57ce856d3011895886b9a3a91415236ad84aee17e897eb3

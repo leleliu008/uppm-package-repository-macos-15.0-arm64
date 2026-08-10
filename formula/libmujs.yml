@@ -1,5 +1,5 @@
-summary: Embeddable Javascript interpreter
+summary: An embeddable Javascript interpreter in C
 webpage: https://www.mujs.com/
-version: 1.3.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libmujs-1.3.4-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: e37eaeb2cc512b10f0bf995357fcaa1d22687d4304c63cdde445be6757fdb650
+version: 1.3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libmujs-1.3.8-MacOSX-15.0-arm64.tar.xz
+bin-sha: 3250d02b12391de502dbc991ceb6d02476eae9ba1c32702459950040d172a7c2

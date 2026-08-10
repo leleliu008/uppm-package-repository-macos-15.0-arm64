@@ -1,5 +1,5 @@
 summary: A command-line tool to manage apps on iOS devices
 webpage: https://www.libimobiledevice.org
-version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ideviceinstaller-1.1.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 64f03a482b168fe7a49f88bfe69507b1fea1b20479c483cc51456459a54e8844
+version: 1.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/ideviceinstaller-1.2.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7f7fea94a9c161db8dd48a80e90c8e160c8ed59836f96e2eb6d60ca6c147f017

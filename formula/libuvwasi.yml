@@ -1,0 +1,5 @@
+summary: WASI syscall API built atop libuv
+webpage: https://github.com/nodejs/uvwasi
+version: 0.0.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libuvwasi-0.0.23-MacOSX-15.0-arm64.tar.xz
+bin-sha: 5eb885c0bcf323f7d34bdf391d5db0df06e8f88eb122b83313309ae9ed9926c3

@@ -1,5 +1,5 @@
 summary: A library to render SVG files using Cairo
 webpage: https://wiki.gnome.org/Projects/LibRsvg
-version: 2.58.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/librsvg-2.58.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: a6d8aa05c698fda95ad51041a17952c1548676b84d7dcc7e4715e7da44c5c8da
+version: 2.61.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/librsvg-2.61.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 8285853dccf2ca3d28dd98233d17699684cdbef409aed15e2c706ef389912ec8

@@ -1,5 +1,5 @@
 summary: Converts markdown into roff (man pages)
 webpage: https://github.com/cpuguy83/go-md2man
-version: 2.0.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/go-md2man-2.0.4-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: bc4361c22b7c7dd2576426269e2d097d50c61c9cf8bcfa247b4d575fa6bc44da
+version: 2.0.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/go-md2man-2.0.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: b987b52fde8ed6762b9245c176afd9c7e419512633c19848c4de09594486fc38

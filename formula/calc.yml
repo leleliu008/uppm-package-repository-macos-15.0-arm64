@@ -1,0 +1,5 @@
+summary: Arbitrary precision calculator
+webpage: http://www.isthe.com/chongo/tech/comp/calc/
+version: 2.16.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/calc-2.16.1.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: a62860a9e9062b892a5e613961d51b83690aeee7d1b665ae7e3d3661f46263be

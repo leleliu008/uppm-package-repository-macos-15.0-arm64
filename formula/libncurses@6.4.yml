@@ -1,0 +1,5 @@
+summary: Text-based UI library
+webpage: https://www.gnu.org/software/ncurses
+version: 6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libncurses-6.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: e6c4006b4b3d1637ea07ed3e793c2b8bf711215fc7484527cba90d8b27a93a00

@@ -1,0 +1,5 @@
+summary: simple jpeg encoder
+webpage: https://github.com/webmproject/sjpeg
+version: 2026.08.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libsjpeg-2026.08.10-MacOSX-15.0-arm64.tar.xz
+bin-sha: 2414f590393c57dc4444c0253212c40b44f14103b75158e605077094ef3c7f7f

@@ -1,5 +1,5 @@
 summary: Perl compatible regular expressions library with a new API
 webpage: https://www.pcre.org/
-version: 10.44
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libpcre2-10.44-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: edaf37d159d4eb19e0315ad1038e6fc3a37c24bd48f784b7461012c327d1ce75
+version: 10.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libpcre2-10.47-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7c04b4eb7cbdfb9d4a86bc9f4f410113ee7a9f0d718de0ee7b85606f44c44376

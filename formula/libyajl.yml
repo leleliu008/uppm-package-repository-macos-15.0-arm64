@@ -1,5 +1,5 @@
 summary: Yet Another JSON Library
 webpage: https://lloyd.github.io/yajl/
 version: 2.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libyajl-2.1.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 6cddfdf5ec0903e4b64fb44b708a8deda215184538d11be7be83c081f4681915
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libyajl-2.1.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: b5da890a97d597e3bcd6da4a01784f474a8c6374cbf810c6ac3d22ecc1571ea4

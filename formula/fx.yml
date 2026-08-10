@@ -1,5 +1,5 @@
 summary: Terminal JSON viewer
 webpage: https://fx.wtf
-version: 35.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/fx-35.0.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: ba595142dc769b05a2b72b146f4cd81af18361d91346612bd32cd448a971a6b5
+version: 39.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/fx-39.2.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 152e39b1333a5b50ab2a8bba8eeef995d79836cffc41b1e2ef74cc73108191c4

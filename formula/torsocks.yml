@@ -1,0 +1,5 @@
+summary: Use SOCKS-friendly applications with Tor
+webpage: https://gitlab.torproject.org/tpo/core/torsocks
+version: 2.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/torsocks-2.5.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: ef325448f6a309284c12e14f67931c55c13694374184e883a7579bb236b3658b

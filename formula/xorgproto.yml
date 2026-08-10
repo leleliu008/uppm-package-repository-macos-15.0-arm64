@@ -1,0 +1,5 @@
+summary: X.Org Protocol Headers
+webpage: https://www.x.org/
+version: 2025.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/xorgproto-2025.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 809a6330529bde29bb7ec4a60866983a19be8929cbf48cf7f5a16dbec8070029

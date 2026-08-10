@@ -1,0 +1,5 @@
+summary: Feature-rich C++11/14/17/20/23 single-header testing framework
+webpage: https://github.com/doctest/doctest
+version: 2.4.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/doctest-2.4.12-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7326859aaf379ce595e0aeff2b62a8a70a8ccbb54b86c718d5920c593ad5d0fd

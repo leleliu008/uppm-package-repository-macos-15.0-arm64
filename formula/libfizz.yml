@@ -1,0 +1,5 @@
+summary: C++14 implementation of the TLS-1.3 standard
+webpage: https://github.com/facebookincubator/fizz
+version: 2026.01.12.00
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libfizz-2026.01.12.00-MacOSX-15.0-arm64.tar.xz
+bin-sha: 3bbef50ef8f1d2cbef781d72a1b37c5b5db155b8fb946d782fac8b1f0533248f

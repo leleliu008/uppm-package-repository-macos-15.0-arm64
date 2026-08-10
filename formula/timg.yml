@@ -1,0 +1,5 @@
+summary: Terminal image and video viewer
+webpage: https://timg.sh/
+version: 1.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/timg-1.6.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: cb5ee2159b5faa0614780d7da34bb553142a0d7c2ea5091d16342a966c1c2e87

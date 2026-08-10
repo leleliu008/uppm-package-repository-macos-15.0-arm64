@@ -1,5 +1,5 @@
-summary: General purpose TCP-IP emulator
+summary: A general purpose TCP-IP emulator used by virtual machine hypervisors to provide virtual networking services
 webpage: https://gitlab.freedesktop.org/slirp/libslirp
-version: 4.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libslirp-4.8.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 621bebf2b37fbe0ea361dc13910f045285c8ccb4e053433833d47f8bce9ca18d
+version: 4.9.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libslirp-4.9.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 1f6bd186206af5d662bb4e13f02583c4f4ba3a0340bd3e43cda56c90d8ff17d7

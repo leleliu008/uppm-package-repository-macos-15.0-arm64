@@ -1,0 +1,5 @@
+summary: Thrift functions for querying information from a service
+webpage: https://github.com/facebook/fb303
+version: 2026.01.12.00
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libfb303-2026.01.12.00-MacOSX-15.0-arm64.tar.xz
+bin-sha: f9bb4c1e4ac072988b981fadfd9ddf7b9ee69fe6bd140859b3727a68f2171efb

@@ -1,0 +1,5 @@
+summary: File synchronization tool
+webpage: https://www.cis.upenn.edu/~bcpierce/unison/
+version: 2.53.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/unison-2.53.8-MacOSX-15.0-arm64.tar.xz
+bin-sha: 29f77849fdfa6df1ab4f66bfc472579e3ecaa4d243bf63ed7dc632fdb333e11e

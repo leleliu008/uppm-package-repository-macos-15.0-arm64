@@ -1,5 +1,5 @@
-summary: SkCMS
-webpage: https://skia.googlesource.com/skcms.git
-version: 2025.03.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libskcms-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: e5febcd1ce8acb4d52fdb467af226b582da8d0a0eda2c46b6d5daca8e4ceac11
+summary: Skia Color Management System
+webpage: https://skia.googlesource.com/skcms
+version: 2025.09.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libskcms-2025.09.16-MacOSX-15.0-arm64.tar.xz
+bin-sha: 903de6e8cd8f73c372ec098127ef9bc8c2885037da690d8b9dc60a871107b146

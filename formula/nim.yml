@@ -1,0 +1,5 @@
+summary: Statically typed compiled systems programming language
+webpage: https://nim-lang.org/
+version: 2.2.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/nim-2.2.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: f68dc9df0f418a4a333d40955778b76393bbb22e998f10450e7b8d94f925b083

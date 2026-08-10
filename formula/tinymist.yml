@@ -1,0 +1,5 @@
+summary: Services for Typst
+webpage: https://myriad-dreamin.github.io/tinymist/
+version: 0.14.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/tinymist-0.14.14-MacOSX-15.0-arm64.tar.xz
+bin-sha: d945d7c840675ab1b787eb630af1fe12c0d2e956ac1e2b41d71643098d368059

@@ -1,5 +1,5 @@
 summary: Color management solution geared towards motion picture production
 webpage: https://opencolorio.org/
 version: 2.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/opencolorio-2.3.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 475e582b7c38805d35c5482d0dcd85e87932520b297753c1f5958b61f72fb0cc
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/opencolorio-2.3.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: f7b8707c0a17d24c885172541e92fcdf87c2c9c963eaca83851e05a58d93cfc0

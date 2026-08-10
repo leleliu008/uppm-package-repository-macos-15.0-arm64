@@ -1,0 +1,5 @@
+summary: Syntax-aware linter for prose
+webpage: https://vale.sh/
+version: 3.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/vale-3.14.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9a6716b90ca3437cdc6e4ebebcaa0d053c7053b18eb516812ffdff49156ae923

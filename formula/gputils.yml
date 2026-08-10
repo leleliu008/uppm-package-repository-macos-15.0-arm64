@@ -1,5 +1,5 @@
 summary: GNU PIC Utilities
 webpage: https://gputils.sourceforge.io/
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/gputils-1.5.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 8de86406f3515c419473fa21c702ec5b5a8f78177545c8c275fcaa853e020655
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/gputils-1.5.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 568b6a52a23b18931fe66cb8760d238606b4cb98b67e3903752a624af324873c

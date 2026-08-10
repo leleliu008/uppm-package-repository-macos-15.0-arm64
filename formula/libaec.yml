@@ -1,5 +1,5 @@
 summary: Adaptive Entropy Coding implementing Golomb-Rice algorithm
-webpage: https://gitlab.dkrz.de/k202009/libaec
-version: 1.1.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libaec-1.1.3-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 94950221902038e663dac693545ccfc24f2010fc51b2dfc79e79bac2fbc23e5c
+webpage: https://github.com/Deutsches-Klimarechenzentrum/libaec
+version: 1.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libaec-1.1.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: a4f2f28bdb357362149f1be1ebf6b8c2208b8b8870bd877fd8c696ad1a1fa66d

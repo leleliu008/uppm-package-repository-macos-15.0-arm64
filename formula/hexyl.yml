@@ -1,5 +1,5 @@
 summary: A simple hex viewer for the terminal
 webpage: https://github.com/sharkdp/hexyl
-version: 0.14.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/hexyl-0.14.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 831bed220ce6c34e916e5fdea3f5bed79c1a9aeb12272d2bf8520a3582d28567
+version: 0.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/hexyl-0.16.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 92e1a51aa2bb60a8d40d363823c1c59dd44c83c0509d3d343e88686cb9eaf906

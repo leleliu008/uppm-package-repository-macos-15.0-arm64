@@ -1,5 +1,5 @@
 summary: Validate and define text-based and dynamic configuration
 webpage: https://cuelang.org/
-version: 0.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/cue-0.9.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 0426b4f336965f8260f20b852ad19af8747cead8d6b859fd819177ff1b0c571e
+version: 0.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/cue-0.15.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 723f72a6ddc1eea8b1072e0e5f92f297c0c2b4235c67a8c9d93b63a2f8afac9c

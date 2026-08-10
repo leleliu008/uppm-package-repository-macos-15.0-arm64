@@ -1,0 +1,5 @@
+summary: High-level C binding for ZeroMQ
+webpage: http://czmq.zeromq.org/
+version: 4.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libczmq-4.2.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 1f5292da3db6e68980025e3fc10a6c8227b080a1747621ac0b1f3a56143473ed

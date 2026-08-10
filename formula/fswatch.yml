@@ -1,5 +1,5 @@
 summary: Monitor a directory for changes and run a shell command
 webpage: https://github.com/emcrisostomo/fswatch
-version: 1.17.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/fswatch-1.17.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: aecf5e41bbdafb04c3e2909151d9d3327a40c13d6aac6aa8540d6d3efb812d44
+version: 1.18.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/fswatch-1.18.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: e6fdacde875bbd286b24283b825ff4fc4d774d2f05528a81ce51eb24f14f2897

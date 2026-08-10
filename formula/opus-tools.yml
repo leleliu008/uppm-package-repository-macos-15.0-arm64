@@ -1,0 +1,5 @@
+summary: Utilities to encode, inspect, and decode .opus files
+webpage: https://www.opus-codec.org/
+version: 0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/opus-tools-0.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 94a4e3c998144bd9ec1b274abcb0d25a05c5c904d7ccb97b90e07f440cc2f8bc

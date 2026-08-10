@@ -1,0 +1,5 @@
+summary: Trace TeX bitmap font to PFA, PFB, or TTF font
+webpage: https://lilypond.org/mftrace/
+version: 1.2.20
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/mftrace-1.2.20-MacOSX-15.0-arm64.tar.xz
+bin-sha: 73c2ea3fdc6e063edc4512ff97c508fb6321691eac6fb12d2f6b07a3ca8ba745

@@ -1,0 +1,5 @@
+summary: A JavaScript runtime built on top of V8 JavaScript engine
+webpage: https://nodejs.org/
+version: 22.22.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/nodejs-22.22.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 55534075bd6148430b668fc6429f1d026bf0502014e428da5778e8fcc9c928cc

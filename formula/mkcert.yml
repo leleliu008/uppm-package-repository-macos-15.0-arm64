@@ -1,0 +1,5 @@
+summary: Simple tool to make locally trusted development certificates
+webpage: https://github.com/FiloSottile/mkcert
+version: 1.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/mkcert-1.4.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: 770ccda443cc828fcf2aac839ee212507b4557fbe245063833c99976f8cdad1d

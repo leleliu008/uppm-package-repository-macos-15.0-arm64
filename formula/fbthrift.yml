@@ -1,0 +1,5 @@
+summary: Facebook branch of Apache Thrift, including a new C++ server
+webpage: https://github.com/facebook/fbthrift
+version: 2026.01.12.00
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/fbthrift-2026.01.12.00-MacOSX-15.0-arm64.tar.xz
+bin-sha: bca05e2d329495aee943806eca642c483d903785543f9bcf47e73702aed291ca

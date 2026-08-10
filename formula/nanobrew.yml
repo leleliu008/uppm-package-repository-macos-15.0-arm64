@@ -1,0 +1,5 @@
+summary: The fastest macOS package manager, written in Zig
+webpage: https://github.com/justrach/nanobrew
+version: 0.1.079
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/nanobrew-0.1.079-MacOSX-15.0-arm64.tar.xz
+bin-sha: 28992109186f402e42942e6088b1bb71cf4c88fa83c63ac9ca2b2525a298c0cc

@@ -1,0 +1,5 @@
+summary: A tool to enforce Swift style and conventions
+webpage: https://github.com/realm/SwiftLint/
+version: 0.63.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/swiftlint-0.63.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 8abc3e6cf92db163fd9727b67e8d23beb562f1bb8cb91e3b71e2dbbc2f87d51f

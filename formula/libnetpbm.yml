@@ -1,5 +1,5 @@
-summary: A C library for manipulating Netpbm images
+summary: C library for manipulating Netpbm images
 webpage: http://netpbm.sourceforge.net/
-version: 10.86.41
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libnetpbm-10.86.41-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 7ec43d2119d403cfba6d546af4a47b0b92a94f520d4a655a6bfde1d643ec963f
+version: 10.86.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libnetpbm-10.86.47-MacOSX-15.0-arm64.tar.xz
+bin-sha: 16a148ebd635d91280836a6caf6556dfe18dc9d9ff49414403fdaf5c65a921f0

@@ -1,5 +1,5 @@
 summary: C XSLT library for GNOME
 webpage: http://xmlsoft.org/XSLT
-version: 1.1.39
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libxslt-1.1.39-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: b2146f0d03cb8f3836322ef934d8abe96f7148b528e50fdfc5494ee2587fc5cc
+version: 1.1.45
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libxslt-1.1.45-MacOSX-15.0-arm64.tar.xz
+bin-sha: 95460ac180fe035a679db5d147f54dce90cece6c3275bab64671918ce53fa340

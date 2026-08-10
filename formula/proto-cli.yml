@@ -1,0 +1,5 @@
+summary: A multi-language version manager, a unified toolchain
+webpage: https://moonrepo.dev/proto
+version: 0.56.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/proto-cli-0.56.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: 70753d564ca845edc5ad75abecd1061b3a44500cca3382c4e7671a5739fd1b9a

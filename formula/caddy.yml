@@ -1,5 +1,5 @@
 summary: A powerful, enterprise-ready, open source web server with automatic HTTPS
 webpage: https://caddyserver.com/
-version: 2.8.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/caddy-2.8.4-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: fa24ec0c60e72185c1de5d7b07ae35c2a961614fc09b2af6f6e3fafac91d8f6a
+version: 2.10.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/caddy-2.10.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9deac0c1cfb267aaeeaf12d97a39a2dc96bcd534185a5f59c801ab262e14d33b

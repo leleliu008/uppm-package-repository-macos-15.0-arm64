@@ -1,0 +1,5 @@
+summary: rust implementation of the GNU coreutils
+webpage: https://uutils.github.io/coreutils/
+version: 0.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/uutils-coreutils-0.6.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 542c4b23427bfb466a020e91e1f53cba9fc811c821eb1364613b980072e64b05

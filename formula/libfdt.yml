@@ -1,5 +1,5 @@
 summary: C library for parsing and manipulating device tree data structures
 webpage: https://git.kernel.org/pub/scm/utils/dtc/dtc.git
 version: 1.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libfdt-1.7.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: c8ae3764491735b1d5f9941878d154b4ce437fd69a6851ecc419adf585709c55
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libfdt-1.7.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 0ccb1adc4ba60a08483235a78576255b875fc72200f6f8458125fbf13455184f

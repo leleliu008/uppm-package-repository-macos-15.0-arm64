@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS library
+webpage: https://openssl-library.org/
+version: 3.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libopenssl-3.6.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 8ea8d08938ca70a029add00c0558edd3add959b5ffb0801a7d02b18205edb1c8

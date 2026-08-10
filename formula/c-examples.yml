@@ -1,5 +1,5 @@
 summary: C语言学习项目
 webpage: https://github.com/leleliu008/C-examples
-version: 2025.03.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/c-examples-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: d345ae4b0ed8bf780b8ba72f72e22faea0883fadef4df1d79416994031c8e2c7
+version: 2026.08.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/c-examples-2026.08.10-MacOSX-15.0-arm64.tar.xz
+bin-sha: c365590508aa98dd17f7512a916068850cb0aa954f031cb07be331ba2872b406

@@ -1,5 +1,5 @@
 summary: A command-line tool for generating regular expressions from user-provided test cases
 webpage: https://github.com/pemistahl/grex
-version: 1.4.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/grex-1.4.5-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: cb24abe7ff18e12bcbfb822822f2d70a7fb330f2bdc0913c52fd42b880cba5ac
+version: 1.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/grex-1.4.6-MacOSX-15.0-arm64.tar.xz
+bin-sha: 2a196efe8ad59c5197c92af57dd58f35266cb582a57a28a42c1c8ddfe4f85720

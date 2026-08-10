@@ -1,0 +1,5 @@
+summary: A simplified and community-driven man pages
+webpage: https://tldr.sh/
+version: 1.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/tldr-1.6.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 03366a0232f0c1293d0da426f87498ffee43cd043ae255d77d3cac97a6dec617

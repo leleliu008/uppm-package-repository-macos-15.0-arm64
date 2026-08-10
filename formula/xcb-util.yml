@@ -1,0 +1,5 @@
+summary: Additional extensions to the XCB library
+webpage: https://xcb.freedesktop.org
+version: 0.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/xcb-util-0.4.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 081c3df20b54e1a0a9d8f6fda5f362bc528ffca80c4f7627824f5e84dae2c498

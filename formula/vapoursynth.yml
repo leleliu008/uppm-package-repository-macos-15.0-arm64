@@ -1,5 +1,5 @@
 summary: Video processing framework with simplicity in mind
 webpage: https://www.vapoursynth.com
-version: R70.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/vapoursynth-R70.11-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: b433ad40b10436a41ef08c26704193b245b771d6a8459cc11e6746fdd2eb642c
+version: 73
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/vapoursynth-73-MacOSX-15.0-arm64.tar.xz
+bin-sha: 5e766fa7471f556c51ea0d8b015971890c5a83dd9164c913fe1c39bdd4429361

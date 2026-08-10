@@ -1,0 +1,5 @@
+summary: Linux virtual machines
+webpage: https://github.com/lima-vm/lima
+version: 2.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/lima-2.1.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 96ab462c61b5f971087ab72258c91d3aeb0ff6841801bc9f2de587992764f676

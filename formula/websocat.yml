@@ -1,0 +1,5 @@
+summary: Command-line client for WebSockets
+webpage: https://github.com/vi/websocat
+version: 1.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/websocat-1.14.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: ebb957586e8ca9676c8cc6b3595ac8ded2883c7945ed31883b059fa2b7ff4da7

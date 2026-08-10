@@ -1,0 +1,5 @@
+summary: X.Org XFree86-VidMode X extension
+webpage: https://www.x.org/
+version: 1.1.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libxxf86vm-1.1.5-MacOSX-15.0-arm64.tar.xz
+bin-sha: 97c2ae19edde998ba9add6b1077e4415fbaaf8f66efb5d6216d5b6d761bf64a3

@@ -1,0 +1,5 @@
+summary: PDF rendering library (based on the xpdf-3.0 code base)
+webpage: https://poppler.freedesktop.org/
+version: 25.09.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libpoppler-25.09.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 0d8de2aef411db86946cdf84e345bc84b56747bf1e59da66f42bd942974ba5d1

@@ -1,5 +1,5 @@
 summary: Remote terminal application
 webpage: https://mosh.org/
 version: 1.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/mosh-1.4.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 5bbc02367ed0a3e83fa137889fd9d547dae2433d17261876e39c3dbe3445a3fe
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/mosh-1.4.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 8d59c8cd1f5db9effb7207c0ad834ca02413a32d54190950dbbe00f250bdcc3d

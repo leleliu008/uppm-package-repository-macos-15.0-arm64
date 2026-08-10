@@ -1,0 +1,5 @@
+summary: Vulnerability scanner for container images, file systems, and Git repos
+webpage: https://trivy.dev/
+version: 0.69.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/trivy-0.69.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 6d59759e3da0c94ae55380ae01a96c01f802e0960466d09f29b148e7212d3069

@@ -1,5 +1,5 @@
 summary: Rust toolchain installer
 webpage: https://github.com/rust-lang/rustup
-version: 1.27.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/rustup-init-1.27.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 4b42c5441c69e0daa02a4fee7b7087f38e3c5472497a37ad3c70a654d3492c0d
+version: 1.28.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/rustup-init-1.28.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: dc6d417236240aaedff6ec6098c94a0c2564e6b87ae7c48c9b1d97f351e30566

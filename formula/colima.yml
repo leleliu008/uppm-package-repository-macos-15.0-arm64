@@ -1,0 +1,5 @@
+summary: container runtimes on macOS (and Linux) with minimal setup
+webpage: https://github.com/abiosoft/colima
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/colima-0.10.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 7fab50895368288af30b915b144006eb10e79bf0a1c5fe27ed3dc3a2c904de51

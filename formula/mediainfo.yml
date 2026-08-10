@@ -1,5 +1,5 @@
 summary: A convenient unified display of the most relevant technical and tag data for video and audio files
 webpage: https://mediaarea.net/
-version: 24.05
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/mediainfo-24.05-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: b0c80dc56e508267d62c89e870d52067998d9bb14c9942d25e51bbad0e29eea6
+version: 26.01
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/mediainfo-26.01-MacOSX-15.0-arm64.tar.xz
+bin-sha: d2447560b0e2fe75ab35e259b79b5ca3a71ef3f3302f150eb340363dc373f256

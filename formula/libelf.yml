@@ -1,5 +1,5 @@
-summary: ELF object file access library
-webpage: https://fossies.org/linux/misc/old/libelf-0.8.13.tar.gz/
+summary: C library to read, create and modify ELF binary files
+webpage: https://manpath.be/osol9/3lib/libelf
 version: 0.8.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libelf-0.8.13-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 80683a1236cd908374f6a33a2f1726bf0929a73e3c5b8c2e1c96524ae33924c1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libelf-0.8.13-MacOSX-15.0-arm64.tar.xz
+bin-sha: b8dc1d954f9c218fb833d7c7142ffff1eaca25c534781f763bdeb057abd845cf

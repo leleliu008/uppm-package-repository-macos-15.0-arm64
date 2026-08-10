@@ -1,5 +1,5 @@
 summary: Display directories as trees (with optional color/HTML output)
 webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
-version: 2.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/tree-2.2.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 8dafbf3fa491672ddc71f2f4aa8dfb4ddc88d5ef5266c7196e4c50d748976489
+version: 2.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/tree-2.3.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 6f78ad921ea4ef48af7bc979b1602184354bc2277c6a0dc7202c8fdc2b90c778

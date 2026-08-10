@@ -1,5 +1,5 @@
 summary: Reusable library for GPU-accelerated image/video processing primitives
 webpage: https://code.videolan.org/videolan/libplacebo
-version: 7.349.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libplacebo-7.349.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 0f007ab4c0589c93a983c38ca47d2018efeee557c56c3cc03c83a7785dd7c3b7
+version: 7.360.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libplacebo-7.360.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: ed16bc490e1671c79a1c16cb22e9e32b9afb4b110b1699ca0aa7fb8da35e47a6

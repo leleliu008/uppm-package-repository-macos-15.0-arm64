@@ -1,0 +1,5 @@
+summary: Anonymizing overlay network for TCP
+webpage: https://www.torproject.org/
+version: 0.4.8.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/tor-0.4.8.16-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9675941485de8566fe6565abc6033b42a191bb8b6ba16b1c52b514318919037f

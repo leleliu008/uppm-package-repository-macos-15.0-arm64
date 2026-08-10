@@ -1,0 +1,5 @@
+summary: A fast package manager alternative to Homebrew, written in Rust
+webpage: https://github.com/lucasgelfond/zerobrew
+version: 0.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/zerobrew-0.1.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 94c2eba50cec7b34bead7c3f69e5319c8b82f40c338ddc91247d219554d605d1

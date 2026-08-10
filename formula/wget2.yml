@@ -1,0 +1,5 @@
+summary: Successor of GNU Wget, a file and recursive website downloader
+webpage: https://www.gnu.org/software/wget
+version: 2.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.2/wget2-2.2.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: dc3ea52b1809ef3852c93897458d8b9e1f1a2becb224c30fb04571fa3bdd4eed

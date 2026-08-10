@@ -1,5 +1,5 @@
 summary: Packet(TCP/IP) Capture library
 webpage: https://www.tcpdump.org/
 version: 1.10.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libpcap-1.10.4-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: fdd76653bffe292e61f04f284ca7013502d43e8fdeaf789d864e02f0572aae84
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libpcap-1.10.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: 57c30af42478248dccbfead977010b906aba0f0081978caea8fe5ed450b493d6

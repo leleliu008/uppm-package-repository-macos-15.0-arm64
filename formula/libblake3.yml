@@ -1,5 +1,5 @@
 summary: C implementations of the BLAKE3 cryptographic hash function
 webpage: https://github.com/BLAKE3-team/BLAKE3
-version: 1.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libblake3-1.5.1-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: b761d7f80f01200a0642f8dd5a83edcdbbe42d8684f2591daea4de3b5e430ddc
+version: 1.8.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libblake3-1.8.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 146ec54523a2aa543b507255511a78dfd924ca8a529fbb25e198f651fcb08708

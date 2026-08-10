@@ -1,5 +1,5 @@
 summary: Convert text between DOS, UNIX, and Mac formats
-webpage: https://waterlan.home.xs4all.nl/dos2unix.html
-version: 7.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/dos2unix-7.5.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 1137d8c201d004dfe87c5343ecf1ddb8857c2db2244db7ccd6f87b287953976b
+webpage: https://waterlander.net/dos2unix/
+version: 7.5.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/dos2unix-7.5.6-MacOSX-15.0-arm64.tar.xz
+bin-sha: 658273c73a54472a8f80b9ca1fc72625ca503cdcdf25596d02e76d8ba5c6e773

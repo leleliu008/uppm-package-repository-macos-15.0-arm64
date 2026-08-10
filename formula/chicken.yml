@@ -1,5 +1,5 @@
 summary: Compiler for the Scheme programming language
 webpage: https://www.call-cc.org/
-version: 5.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/chicken-5.3.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 7a003e5d66433df17d41d2a12d9596a1665be60da18370ce55739151f3e248d8
+version: 5.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/chicken-5.4.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: f5cfbe37d5532cb0d74705eef0af3c06f6aafd4a7a5d420ee9f5d6a48745e164

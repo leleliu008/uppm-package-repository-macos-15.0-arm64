@@ -1,0 +1,5 @@
+summary: A set of tools for reading and writing files containing sampled sound (such as MS Windows WAV and the Apple/SGI AIFF format)
+webpage: http://libsndfile.github.io/libsndfile/
+version: 1.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/sndfile-1.2.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 68b8335aeb55e0baa4a6ffff999e262ad2dac74bf99964864d0171874882629b

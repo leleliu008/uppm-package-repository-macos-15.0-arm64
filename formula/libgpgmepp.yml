@@ -1,0 +1,5 @@
+summary: C++ bindings for gpgme
+webpage: https://www.gnupg.org/related_software/gpgme/
+version: 2.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/libgpgmepp-2.0.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: c1ac2bdabb62c69ac9e846374f44dee9148bdab350f4f3bf0fed5025423fe8b2

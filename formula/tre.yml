@@ -1,0 +1,5 @@
+summary: A modern alternative to the tree(1)
+webpage: https://github.com/dduan/tre
+version: 0.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/tre-0.4.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: dad3d269cd375c08d4fb37d4fc8bb2298e81cc46a6462c5bd0a5b20405462b06

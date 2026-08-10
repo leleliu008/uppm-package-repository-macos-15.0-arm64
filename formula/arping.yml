@@ -1,5 +1,5 @@
 summary: Utility to check whether MAC addresses are already taken on a LAN
 webpage: https://github.com/ThomasHabets/arping
 version: 2.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/arping-2.24-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 3b7a936ab2333e1b2c1092c387bfbb60b424e2b12bae82a11bfeb147df0ce37c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/arping-2.24-MacOSX-15.0-arm64.tar.xz
+bin-sha: e65c4e65fd66bb7e365b3a87aef42063dd7c6459f6ac1420c85506e9e74b6236

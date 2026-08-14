@@ -1,5 +1,5 @@
 summary: A command-line tool to show your currently running system information
 webpage: https://github.com/leleliu008/sysinfo
-version: 2026.08.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/sysinfo-2026.08.10-MacOSX-15.0-arm64.tar.xz
-bin-sha: 80d899f6008daf8a9b1c6aaafb38e72b233f86643ab91281557c18650aac7e47
+version: 2026.08.14
+bin-url: https://github.com/leleliu008/xcpkg-package-manually-build/releases/download/sysinfo-2026.08.14-MacOSX-15.0-arm64.tar.xz/sysinfo-2026.08.14-MacOSX-15.0-arm64.tar.xz
+bin-sha: a7e4820ea43588b538ac81b260d2952acd4e8086ec053a70a482600cbafeefc5

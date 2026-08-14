@@ -1,5 +1,5 @@
-summary: Highly capable, feature-rich programming language
+summary: perl runtime
 webpage: https://www.perl.org/
 version: 5.42.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2026.08.10.1/perl-5.42.2-MacOSX-15.0-arm64.tar.xz
-bin-sha: 92c3795ccbb042cbee1aad7212b906aabb13f460216073b1840af42073b7b1cb
+bin-url: https://github.com/fpliu1214/perl-distribution/releases/download/5.42.2/perl-5.42.2-macos-15.0-arm64.tar.xz
+bin-sha: 946c10cd356162e7c8e9cffcfaa743393c84fee6ae01e8d9cbe740fff7482130
